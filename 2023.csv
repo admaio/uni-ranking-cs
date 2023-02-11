@@ -1,0 +1,975 @@
+Line,Rank,Name,Country,TOTAL,C,I,O,R,T
+1,1,University of Oxford,United Kingdom,92.6,99.9,50.8,93.1,92.8,92.4
+2,2,Massachusetts Institute of Technology,United States,92.4,99,79.1,71.2,97.1,89.2
+3,3,Stanford University,United States,91.8,100,65.5,66.2,96.3,90.6
+4,4,ETH Zurich,Switzerland,90.8,98.8,49.8,95,95.7,84.4
+5,5,Carnegie Mellon University,United States,90,99.6,57.7,71.6,93.4,87.7
+6,6,University of Cambridge,United Kingdom,89.9,94,49.7,92.3,92.5,89.5
+7,7,National University of Singapore,Singapore,89.2,96.7,60.2,90.5,92.9,83.2
+8,8,"University of California, Berkeley",United States,88.7,100,57.8,67.6,90.7,86.9
+9,9,Harvard University,United States,87.8,95.1,49.2,67.2,94,86.6
+10,10,Technical University of Munich,Germany,86.9,85.5,81.4,65,95.9,85.5
+11,11,Imperial College London,United Kingdom,86.8,93.3,51.2,94.7,86.9,84.7
+12,11,Princeton University,United States,86.8,99.7,46.7,67.9,89.4,83.8
+13,13,Tsinghua University,China,85.7,90.7,79.1,28.1,92.3,89.8
+14,14,"Nanyang Technological University, Singapore",Singapore,85.6,87.2,98.1,91.7,89,77
+15,15,University of Washington,United States,85.5,99.5,45.1,59.2,87.6,83.9
+16,16,Cornell University,United States,85.1,99.8,46.8,63.4,87,81.5
+17,17,Georgia Institute of Technology,United States,84.2,90.2,49.2,65.7,94.9,78.4
+18,18,University of Illinois at Urbana-Champaign,United States,83.7,90.4,48.2,50.4,92.8,82.6
+19,19,California Institute of Technology,United States,83.5,80.1,57,57.6,97.3,83.9
+20,20,Peking University,China,83.4,92.9,55.1,36.9,87.1,87.3
+21,21,Columbia University,United States,83,94.6,53.8,81.5,81.8,78.9
+22,22,École Polytechnique Fédérale de Lausanne,Switzerland,82.1,84.2,47.5,96.1,85.4,79.3
+23,22,University of Toronto,Canada,82.1,98.4,46.4,78.8,81.8,74.1
+24,24,University of Edinburgh,United Kingdom,81.5,95.2,47.5,95.4,77.1,75.5
+25,25,New York University,United States,80.5,96.5,47.7,88.1,82,67.7
+26,26,"University of California, Los Angeles",United States,80.2,89,47.2,73,85.8,73.9
+27,27,Shanghai Jiao Tong University,China,78.9,70.3,96.1,46.2,88.2,82.7
+28,28,Johns Hopkins University,United States,77.9,99.3,51.5,70.1,78,64.5
+29,29,The Hong Kong University of Science and Technology,Hong Kong,77.8,94.1,61,97.4,74,64.4
+30,29,UCL,United Kingdom,77.8,90.4,44.7,95.1,75.4,70
+31,31,University of Texas at Austin,United States,77.2,81.9,56.5,38.8,91.2,71.8
+32,32,Yale University,United States,75.9,84.3,46.5,62.6,77.9,74.3
+33,33,"University of California, San Diego",United States,74.7,94.9,66.4,67.9,77.3,56.6
+34,34,University of Montreal,Canada,74.1,87,53.3,82.9,73.9,63.6
+35,35,University of Pennsylvania,United States,73.8,83.1,54,72.2,75.2,67.5
+36,36,Chinese University of Hong Kong,Hong Kong,73.3,98.5,49,94.5,64.5,57.8
+37,37,University of Michigan-Ann Arbor,United States,73.1,85.6,47.2,49.7,81.8,63.2
+38,38,The University of Chicago,United States,72.9,90.8,44.1,64.6,73.9,62.3
+39,38,Paris Sciences et Lettres – PSL Research University Paris,France,72.9,87.5,48.3,78.4,67.2,67.9
+40,40,Zhejiang University,China,72.8,75.9,99.6,62,72.8,68.4
+41,41,KU Leuven,Belgium,72,80.4,67,61.9,74.8,64.8
+42,42,The University of Tokyo,Japan,71.9,51.7,59.1,30.3,88.3,86.7
+43,43,University of Waterloo,Canada,71.1,77,50.2,82,74,63.4
+44,44,Korea Advanced Institute of Science and Technology (KAIST),South Korea,69.9,74.9,64.9,31.6,78.2,67.4
+45,45,"University of Maryland, College Park",United States,69.7,93.9,45.8,42.2,68.9,59.1
+46,46,Institut Polytechnique de Paris,France,68.3,56.9,51.2,89.9,65.2,79.4
+47,47,University of British Columbia,Canada,66.8,86.3,47.2,89.1,64.1,49.2
+48,48,Delft University of Technology,Netherlands,66.4,73.5,59,81.1,68.2,55.7
+49,48,Seoul National University,South Korea,66.4,66.1,75.4,26.3,71.2,70.3
+50,50,RWTH Aachen University,Germany,66.2,64.9,61.1,47.2,74.3,65.1
+51,51,University of Melbourne,Australia,65.6,81,46.6,91.9,58.1,55.7
+52,52,Duke University,United States,65.2,88.7,45.7,61,58.3,54.9
+53,53,McGill University,Canada,65.1,69.4,50.9,87.2,68.4,54.7
+54,53,University of Southern California,United States,65.1,93.9,47.3,69.1,60.1,45.7
+55,55,University of Hong Kong,Hong Kong,64.9,85.5,46.5,97.8,53.2,52.6
+56,56,King Abdulaziz University,Saudi Arabia,64.4,93.4,57.4,77.7,40.6,59.3
+57,57,Monash University,Australia,64.2,89.3,49.1,89.3,47.1,54.4
+58,58,Nanjing University,China,62.6,73.8,75,50.6,58.5,57.5
+59,59,Technical University of Berlin,Germany,62.5,72.7,69.6,56.5,62.7,53.3
+60,60,"University of California, Santa Barbara",United States,62.2,88.1,54.2,74.3,54.2,44.7
+61,61,University of Amsterdam,Netherlands,62,96.2,48.9,71.7,48,44.6
+62,62,The University of Sydney,Australia,61.9,96.3,45,95.9,46.8,39.8
+63,63,University of Wisconsin-Madison,United States,61.7,81.3,45.1,70.9,65,40.8
+64,64,University of Science and Technology of China,China,61.6,90.9,48,29.3,52.6,54.1
+65,65,LMU Munich,Germany,61.5,74.5,57.6,53.8,62.2,51.7
+66,66,Australian National University,Australia,61.2,92,44.9,96.1,51.4,36.9
+67,66,Université Paris-Saclay,France,61.2,60.4,67.9,66.1,59.1,61.5
+68,66,Technical University of Darmstadt,Germany,61.2,73.7,55.7,42.6,66.1,50.5
+69,69,University of Technology Sydney,Australia,60.9,95.1,49.9,96.9,42,41.2
+70,70,UNSW Sydney,Australia,60.5,82.1,46.4,93,45.2,50.3
+71,71,Karlsruhe Institute of Technology,Germany,60.4,67.8,72.8,37.3,64.6,53
+72,72,Sorbonne University,France,60.2,62.9,44.9,69.1,55.2,63.2
+73,73,Aalto University,Finland,59.6,82.3,48.1,73.1,50,47
+74,74,Brown University,United States,59.2,97.4,44.3,55.2,36.2,50.8
+75,75,University of Adelaide,Australia,58.9,99.7,55.9,97.4,37.1,34.1
+76,76,"University of California, Irvine",United States,58.8,85.7,45.3,68.1,49.4,43.5
+77,77,KTH Royal Institute of Technology,Sweden,58.5,70,50.7,64.6,56.7,49.5
+78,78,University of Freiburg,Germany,58.4,93.4,88.4,49.3,41.8,40.3
+79,79,Hong Kong Polytechnic University,Hong Kong,58.2,87.8,49.8,96.8,45.7,35.3
+80,80,Michigan State University,United States,58.1,92.9,46.9,70.5,46.1,37.1
+81,81,Fudan University,China,57.7,73.6,56.1,31.9,55.6,51.9
+82,82,City University of Hong Kong,Hong Kong,57.5,77.7,49.3,99.6,46,41.2
+83,82,Yonsei University (Seoul campus),South Korea,57.5,68.6,64.2,28.1,54.3,56.7
+84,84,Queen Mary University of London,United Kingdom,56.4,94.1,44.8,94.3,37.9,32.7
+85,85,University of Massachusetts,United States,56.3,86.9,50.3,66.5,36.4,46.6
+86,86,Kyoto University,Japan,56.2,49.1,50.8,35.1,62.8,62.2
+87,86,University of Manchester,United Kingdom,56.2,59,46.2,91.4,49.1,53.5
+88,88,Politecnico di Milano,Italy,56,67.1,58.9,39.4,47.4,58.1
+89,89,Eindhoven University of Technology,Netherlands,54.4,58,57.7,77.8,59,40
+90,89,Penn State (Main campus),United States,54.4,80.1,45.4,43.3,51.4,38.3
+91,91,"University of California, Davis",United States,54.2,75.9,46.7,80.3,45.7,37.5
+92,91,Purdue University West Lafayette,United States,54.2,55.1,53.1,63.2,51,54.7
+93,93,TU Wien,Austria,54,65.6,46.7,69.1,47.8,47
+94,94,University of North Carolina at Chapel Hill,United States,53.9,87.3,46.1,45.9,41.6,38.9
+95,95,Qatar University,Qatar,53.8,88.2,76.8,99.5,33.8,26.9
+96,95,Virginia Polytechnic Institute and State University,United States,53.8,86.5,45.5,63,40.1,36.4
+97,95,University of Warsaw,Poland,53.8,98.4,44,42.9,39.4,31.7
+98,98,Northwestern University,United States,53.6,71.9,44.8,58.5,45.7,44.8
+99,99,University of Bonn,Germany,53.3,83.3,50.6,55.6,38.5,40.4
+100,100,Lomonosov Moscow State University,Russian Federation,52.7,12.8,91.4,37.5,60.4,78.9
+101,101–125,University of Alberta,Canada,49.2–52.6,64.8,72.3,91.3,42.6,30
+102,101–125,University of Bologna,Italy,49.2–52.6,70.7,48.8,42.1,40.1,44
+103,101–125,Boston University,United States,49.2–52.6,88.8,45.9,70.8,31.8,27.4
+104,101–125,University of Copenhagen,Denmark,49.2–52.6,75.6,57.6,73.8,37.5,36.5
+105,101–125,University of Illinois at Chicago,United States,49.2–52.6,88.7,44.6,61.8,33.2,31.8
+106,101–125,Indian Institute of Science,India,49.2–52.6,49.3,49.2,18.7,55,52
+107,101–125,King’s College London,United Kingdom,49.2–52.6,81.5,44.2,95.3,36.7,29.6
+108,101–125,Korea University,South Korea,49.2–52.6,76.5,60.5,38.6,37.6,40.5
+109,101–125,University of Luxembourg,Luxembourg,49.2–52.6,73.9,54,98.1,29.3,33.2
+110,101–125,Macau University of Science and Technology,Macao,49.2–52.6,94.7,45.2,94.8,19.2,28.6
+111,101–125,Moscow Institute of Physics and Technology (MIPT),Russian Federation,49.2–52.6,44.5,94.4,56.5,44.6,60
+112,101–125,National Taiwan University (NTU),Taiwan,49.2–52.6,50.4,69.4,32.2,49.5,50.2
+113,101–125,"Northeastern University, US",United States,49.2–52.6,86.6,44.6,67.5,38.1,32.6
+114,101–125,The University of Queensland,Australia,49.2–52.6,81.7,47.1,89.2,28.6,34.6
+115,101–125,Rice University,United States,49.2–52.6,78.5,44.7,67.6,34,39.3
+116,101–125,Ruhr University Bochum,Germany,49.2–52.6,65.7,47.6,44.9,53.9,41.5
+117,101–125,Rutgers University – New Brunswick,United States,49.2–52.6,86.8,50.8,66.5,36.7,24.5
+118,101–125,Simon Fraser University,Canada,49.2–52.6,88.7,47.9,89.4,31.1,27
+119,101–125,University of Southampton,United Kingdom,49.2–52.6,67.1,45.2,90.9,40.3,38.5
+120,101–125,University of Surrey,United Kingdom,49.2–52.6,94.6,44.6,92.6,29.5,20.3
+121,101–125,Università della Svizzera italiana,Switzerland,49.2–52.6,90.7,44.8,99,20,30.5
+122,101–125,Technical University of Denmark,Denmark,49.2–52.6,88,55.5,82.8,27.1,29.8
+123,101–125,University of Tübingen,Germany,49.2–52.6,84.1,58,43.3,43.3,33.3
+124,101–125,Vrije Universiteit Amsterdam,Netherlands,49.2–52.6,72.1,49.1,87.5,37.6,33.5
+125,101–125,University of Zurich,Switzerland,49.2–52.6,96.2,45.3,92,24.2,24.4
+126,126–150,Aarhus University,Denmark,47.1–49.1,62.4,54.7,71.1,39.7,35.9
+127,126–150,Arizona State University (Tempe),United States,47.1–49.1,80.8,45.1,62.1,28.6,32.1
+128,126–150,University of Bristol,United Kingdom,47.1–49.1,66.4,45.5,81.2,39.2,30.5
+129,126–150,"University of California, Riverside",United States,47.1–49.1,87.2,44.6,65.3,28.1,25.2
+130,126–150,Central South University,China,47.1–49.1,78.5,80.2,34,31.3,32.7
+131,126–150,Chalmers University of Technology,Sweden,47.1–49.1,73.1,47,66.6,39.5,29.1
+132,126–150,École des Ponts ParisTech,France,47.1–49.1,92.4,46.1,59.7,23.9,27.4
+133,126–150,Graz University of Technology,Austria,47.1–49.1,82.1,49.3,67.1,32.7,27.6
+134,126–150,Griffith University,Australia,47.1–49.1,94,45.5,90,18,24.8
+135,126–150,Huazhong University of Science and Technology,China,47.1–49.1,79.6,49.3,24.5,34.8,35.5
+136,126–150,King Saud University,Saudi Arabia,47.1–49.1,92.3,71,78.4,24.8,19.6
+137,126–150,Lancaster University,United Kingdom,47.1–49.1,85.8,44.5,86.9,26.7,26.9
+138,126–150,Linköping University,Sweden,47.1–49.1,93.8,49.7,61.2,24.7,23.6
+139,126–150,University of Malaya,Malaysia,47.1–49.1,88.4,44.2,80.5,25.7,25
+140,126–150,University of Oslo,Norway,47.1–49.1,91.2,50.7,65.5,24.1,27.4
+141,126–150,University of Oulu,Finland,47.1–49.1,93.4,45.6,64.2,25.2,25.9
+142,126–150,Queensland University of Technology,Australia,47.1–49.1,81.9,44.3,80.2,26.7,30.1
+143,126–150,Stony Brook University,United States,47.1–49.1,69.5,44.3,82.2,28.4,38.6
+144,126–150,Sun Yat-sen University,China,47.1–49.1,80.4,61.5,26.5,34.9,33.4
+145,126–150,Swansea University,United Kingdom,47.1–49.1,94.6,43.8,85.5,20.5,22.1
+146,126–150,Swinburne University of Technology,Australia,47.1–49.1,92.7,45.7,84.8,22.9,25.6
+147,126–150,Technion Israel Institute of Technology,Israel,47.1–49.1,61.7,44.2,44.6,50,36.3
+148,126–150,Tel Aviv University,Israel,47.1–49.1,73.2,45.5,39.6,48.7,25.9
+149,126–150,Tokyo Institute of Technology,Japan,47.1–49.1,42.9,53.3,37.2,57.6,48.5
+150,126–150,University of Warwick,United Kingdom,47.1–49.1,78,44.8,91.7,30.8,30
+151,151–175,Aalborg University,Denmark,45.6–46.9,73.2,45.9,70.6,32.5,28.2
+152,151–175,"Asia University, Taiwan",Taiwan,45.6–46.9,98,73.9,48.8,22.5,18.8
+153,151–175,University of Basel,Switzerland,45.6–46.9,84.9,60.4,87.4,18,26.7
+154,151–175,Deakin University,Australia,45.6–46.9,83.2,47.2,95.4,18.8,25.7
+155,151–175,École Normale Supérieure de Lyon,France,45.6–46.9,40.4,46.5,54.2,41.7,54.1
+156,151–175,University of Erlangen-Nuremberg,Germany,45.6–46.9,68.6,59.3,29.8,37,37.8
+157,151–175,University of Glasgow,United Kingdom,45.6–46.9,64.9,44.1,91.1,35.7,31.1
+158,151–175,University of Groningen,Netherlands,45.6–46.9,54.6,55.1,85.7,39,33.7
+159,151–175,IMT Atlantique,France,45.6–46.9,46.5,57.1,63.1,35.7,51.4
+160,151–175,King Fahd University of Petroleum and Minerals,Saudi Arabia,45.6–46.9,54.6,80.6,71.5,39.8,31.1
+161,151–175,Kyung Hee University,South Korea,45.6–46.9,83.6,52.4,65.7,23.9,27.3
+162,151–175,University of Macau,Macao,45.6–46.9,79.2,43.8,97.8,24.6,23.8
+163,151–175,Macquarie University,Australia,45.6–46.9,79.9,48.1,86.8,22.9,30
+164,151–175,University of Mannheim,Germany,45.6–46.9,88.4,47,51.2,26.1,28.5
+165,151–175,Near East University,Northern Cyprus,45.6–46.9,89.6,84.8,71.6,20.1,20.6
+166,151–175,Pohang University of Science and Technology (POSTECH),South Korea,45.6–46.9,60,61.2,20.7,41,40.6
+167,151–175,University of Rochester,United States,45.6–46.9,90,44.1,78.5,22.2,24.4
+168,151–175,Sapienza University of Rome,Italy,45.6–46.9,65.6,49,38.6,40.3,37.3
+169,151–175,University of South Australia,Australia,45.6–46.9,74.4,56.8,91.3,26.6,25.8
+170,151–175,University of Stuttgart,Germany,45.6–46.9,60.9,53,34,41.5,39.7
+171,151–175,Texas A&M University,United States,45.6–46.9,66.5,44.6,58.2,34.6,34.9
+172,151–175,Tohoku University,Japan,45.6–46.9,48.2,53,48.3,39.8,47.4
+173,151–175,University of Trento,Italy,45.6–46.9,71.8,44.7,58.2,31.4,32.8
+174,151–175,TU Dresden,Germany,45.6–46.9,53.1,46.9,42.5,48,40.7
+175,151–175,University College Dublin,Ireland,45.6–46.9,82.5,49.9,87.7,24.8,24.8
+176,151–175,William & Mary,United States,45.6–46.9,90.6,44.1,53.9,17.6,33
+177,176–200,University of Antwerp,Belgium,44.0–45.5,73.3,72.6,64.3,26.8,28.1
+178,176–200,University of Auckland,New Zealand,44.0–45.5,66.9,46.2,89.2,25.8,30.5
+179,176–200,Bauman Moscow State Technical University,Russian Federation,44.0–45.5,31,55.5,45.2,38.2,60
+180,176–200,University of Birmingham,United Kingdom,44.0–45.5,71.6,45.2,95.6,28.8,21.1
+181,176–200,Brunel University London,United Kingdom,44.0–45.5,87.9,43.8,92.5,19.9,19.1
+182,176–200,University of Colorado Boulder,United States,44.0–45.5,75,44.5,41.4,29.7,30.8
+183,176–200,University of Galway,Ireland,44.0–45.5,85,55.9,72.5,18.5,25
+184,176–200,Harbin Institute of Technology,China,44.0–45.5,60,56.8,22.5,39.1,39.2
+185,176–200,University of Helsinki,Finland,44.0–45.5,67.4,45.5,51.8,33.8,32
+186,176–200,University of Klagenfurt,Austria,44.0–45.5,91,43.8,81.4,16.7,23.6
+187,176–200,University of Leicester,United Kingdom,44.0–45.5,87.9,43.8,98.6,16.4,18.7
+188,176–200,University of Minnesota,United States,44.0–45.5,65.7,45.2,41.3,38.1,34.6
+189,176–200,University of Newcastle,Australia,44.0–45.5,81.9,45.1,89.5,21.1,23.2
+190,176–200,North Carolina State University,United States,44.0–45.5,61.8,43.9,60.3,35.7,36.2
+191,176–200,Peter the Great St Petersburg Polytechnic University,Russian Federation,44.0–45.5,80.9,60.5,50.1,21.2,28.7
+192,176–200,Radboud University Nijmegen,Netherlands,44.0–45.5,69.3,43.8,68.1,36.3,25.6
+193,176–200,Sant’Anna School of Advanced Studies – Pisa,Italy,44.0–45.5,77.8,67,59,21.3,29.9
+194,176–200,Sejong University,South Korea,44.0–45.5,98.3,48.2,55.9,21.6,16.3
+195,176–200,Shenzhen University,China,44.0–45.5,63.6,45.1,32.6,42.1,33.9
+196,176–200,Southern University of Science and Technology (SUSTech),China,44.0–45.5,84.7,59.5,64.3,32.3,15.8
+197,176–200,Stevens Institute of Technology,United States,44.0–45.5,91.3,43.8,79.7,18.5,19.5
+198,176–200,Sungkyunkwan University (SKKU),South Korea,44.0–45.5,42.1,90.3,51.6,40.6,39.9
+199,176–200,SUNY Binghamton University,United States,44.0–45.5,88.4,46.6,48.1,22.6,23.2
+200,176–200,University of Tartu,Estonia,44.0–45.5,84.2,48.3,78.5,18.5,23.2
+201,176–200,Ton Duc Thang University,Vietnam,44.0–45.5,99.5,43.9,49.6,17,21.8
+202,176–200,University of Vienna,Austria,44.0–45.5,49.5,49,90.3,38.3,36.8
+203,176–200,York University,Canada,44.0–45.5,73.9,45.9,80.8,27.9,23.2
+204,201–250,Benha University,Egypt,41.1–43.9,97.3,44.7,43.5,12.1,19.8
+205,201–250,University of Bern,Switzerland,41.1–43.9,66.2,44.8,86.6,24.1,25.2
+206,201–250,University of Bradford,United Kingdom,41.1–43.9,91.6,44.3,85.4,13.4,20.1
+207,201–250,University at Buffalo,United States,41.1–43.9,73.9,46.7,75.9,22.7,21.8
+208,201–250,Cairo University,Egypt,41.1–43.9,73.1,44.1,38.7,28.2,27.2
+209,201–250,"University of California, Santa Cruz",United States,41.1–43.9,68.8,48.5,56.1,31.2,29
+210,201–250,Case Western Reserve University,United States,41.1–43.9,84.2,44.9,70.7,17.6,18.7
+211,201–250,University of Córdoba,Spain,41.1–43.9,97.5,45.3,40.9,12.9,21
+212,201–250,Dartmouth College,United States,41.1–43.9,63.1,45.9,45.7,24.5,37.7
+213,201–250,De Montfort University,United Kingdom,41.1–43.9,95,43.8,93.5,10.3,15.8
+214,201–250,University of East Anglia,United Kingdom,41.1–43.9,95.9,44.8,71.9,10.1,17.6
+215,201–250,University of Essex,United Kingdom,41.1–43.9,80.4,45.2,96.1,17.1,19.5
+216,201–250,University of Florida,United States,41.1–43.9,59.1,44.5,42,35.8,29.1
+217,201–250,Free University of Bozen-Bolzano,Italy,41.1–43.9,80,44.5,74,20.1,21.4
+218,201–250,University of Granada,Spain,41.1–43.9,91.3,43.8,43.7,20.2,22.4
+219,201–250,Université Grenoble Alpes,France,41.1–43.9,56.1,45.5,54.4,33.2,38.7
+220,201–250,Indiana University,United States,41.1–43.9,67.3,53.7,55.5,26.7,27.2
+221,201–250,Istanbul Technical University,Turkey,41.1–43.9,55.7,100,51.5,31,31.6
+222,201–250,Johannes Kepler University of Linz,Austria,41.1–43.9,65.2,52.4,54.2,30.7,29.1
+223,201–250,The University of Jordan,Jordan,41.1–43.9,99.8,44.6,49.3,11,19.9
+224,201–250,University of Leeds,United Kingdom,41.1–43.9,59.1,44.2,95.5,32.5,28.5
+225,201–250,Loughborough University,United Kingdom,41.1–43.9,77.4,44.6,88.8,21.7,21.2
+226,201–250,Université Catholique de Louvain,Belgium,41.1–43.9,56.1,44.7,62.3,36.2,32.1
+227,201–250,Lviv Polytechnic National University,Ukraine,41.1–43.9,85.8,44.1,18.1,10.4,15.1
+228,201–250,Manchester Metropolitan University,United Kingdom,41.1–43.9,99.4,44,72.2,11.4,12.1
+229,201–250,Mansoura University,Egypt,41.1–43.9,97.2,44,42.4,16,14.8
+230,201–250,Nagoya University,Japan,41.1–43.9,49,59.1,26.9,37.7,40.8
+231,201–250,National Yang Ming Chiao Tung University,Taiwan,41.1–43.9,42.1,54.2,28.5,46.5,40.1
+232,201–250,University of New Brunswick UNB,Canada,41.1–43.9,85.8,43.9,81.1,12,22
+233,201–250,University of Notre Dame,United States,41.1–43.9,85.5,45.5,50.1,25.5,15.7
+234,201–250,University of Nottingham,United Kingdom,41.1–43.9,49,45.8,90.7,31.9,32
+235,201–250,Ohio State University (Main campus),United States,41.1–43.9,66.5,51.3,70.2,34.2,23
+236,201–250,Osaka University,Japan,41.1–43.9,31.7,54.6,30.1,51.4,40.7
+237,201–250,Université Paris Cité,France,41.1–43.9,51.5,43.8,78.8,34.4,30.4
+238,201–250,University of Pisa,Italy,41.1–43.9,73.3,44.4,32.2,30.2,29
+239,201–250,Quaid-i-Azam University,Pakistan,41.1–43.9,90.2,43.9,49.3,16.4,21.2
+240,201–250,Université du Québec,Canada,41.1–43.9,57.5,44,83.5,28.7,27.4
+241,201–250,Queen’s University Belfast,United Kingdom,41.1–43.9,84.9,45.3,88.7,19,16.5
+242,201–250,University of Sharjah,United Arab Emirates,41.1–43.9,92.9,45.1,96,16.4,11.9
+243,201–250,Temple University,United States,41.1–43.9,92.5,44.2,53.3,16.4,21.1
+244,201–250,The University of Texas at San Antonio,United States,41.1–43.9,96.6,44.4,50.4,17.2,16.9
+245,201–250,Trinity College Dublin,Ireland,41.1–43.9,63,53.9,77.5,22.5,28.5
+246,201–250,TU Dortmund University,Germany,41.1–43.9,60.6,46.6,30.2,35.7,33.5
+247,201–250,University of Twente,Netherlands,41.1–43.9,49.9,52,84,32.7,34.8
+248,201–250,Ulm University,Germany,41.1–43.9,70.5,47.1,36.4,30.1,27.6
+249,201–250,Utrecht University,Netherlands,41.1–43.9,65.5,50.7,59.4,34,24.5
+250,201–250,Victoria University of Wellington,New Zealand,41.1–43.9,77.3,44.3,81.2,21.5,26.3
+251,201–250,Washington University in St Louis,United States,41.1–43.9,71.2,46.9,66.7,24.4,22.9
+252,201–250,Wuhan University,China,41.1–43.9,68,52.8,26,33.1,33.3
+253,201–250,Yeungnam University,South Korea,41.1–43.9,96.4,43.9,44.7,18.5,17.8
+254,251–300,Bar-Ilan University,Israel,39.0–41.0,68.4,54.5,46.5,28.8,19.6
+255,251–300,Cardiff University,United Kingdom,39.0–41.0,72.3,45,93.8,18,15
+256,251–300,University of Central Florida,United States,39.0–41.0,64.4,46.9,35.2,29.9,29
+257,251–300,Dublin City University,Ireland,39.0–41.0,70.6,44.5,79.2,23.3,15.1
+258,251–300,Duy Tan University,Vietnam,39.0–41.0,100,44.3,47.4,8.9,11.4
+259,251–300,University of Electronic Science and Technology of China,China,39.0–41.0,71,49.8,27.2,24.3,25.5
+260,251–300,University of Exeter,United Kingdom,39.0–41.0,78.5,44.9,86.9,16.5,16.3
+261,251–300,Florida International University,United States,39.0–41.0,78.1,43.8,30.8,22.2,22.1
+262,251–300,University of Fortaleza (UNIFOR),Brazil,39.0–41.0,99.8,45.6,43,10.6,14.9
+263,251–300,Free University of Berlin,Germany,39.0–41.0,43.1,48.2,69.3,32.6,33.6
+264,251–300,George Washington University,United States,39.0–41.0,57.7,43.9,69.2,27.1,25.3
+265,251–300,University of Göttingen,Germany,39.0–41.0,60,44,48.9,30.8,27
+266,251–300,University of Guelph,Canada,39.0–41.0,89.4,44.3,57.3,14.5,12.7
+267,251–300,Hebrew University of Jerusalem,Israel,39.0–41.0,63,47.2,60.5,31.6,21.8
+268,251–300,Hong Kong Baptist University,Hong Kong,39.0–41.0,79,44.7,87.9,14,17.9
+269,251–300,Humboldt University of Berlin,Germany,39.0–41.0,55.8,47.5,43.9,28.9,33.6
+270,251–300,University of Iowa,United States,39.0–41.0,63.3,44,63.2,23.3,25.9
+271,251–300,University of Jaén,Spain,39.0–41.0,98.5,43.8,46.9,11.4,15.9
+272,251–300,Jouf University,Saudi Arabia,39.0–41.0,65.8,44.3,73.5,17.6,27.5
+273,251–300,University of Kaiserslautern,Germany,39.0–41.0,56,50.2,53.1,23.1,34.4
+274,251–300,University of Konstanz,Germany,39.0–41.0,48,45.6,71.7,29.7,31.5
+275,251–300,Lehigh University,United States,39.0–41.0,82.1,43.8,60,16.2,17.8
+276,251–300,Leibniz University Hannover,Germany,39.0–41.0,68.2,49.6,44.5,26.2,27
+277,251–300,Université Libre de Bruxelles,Belgium,39.0–41.0,45.1,45,84.9,31,29.7
+278,251–300,University of Liège,Belgium,39.0–41.0,86.5,54.8,50.4,17.1,17.7
+279,251–300,University of Lincoln,United Kingdom,39.0–41.0,88.4,43.9,75.8,11.5,14.4
+280,251–300,Minia University,Egypt,39.0–41.0,100,43.9,42.6,11.7,14.6
+281,251–300,Nankai University,China,39.0–41.0,78.3,49.1,39.5,21.5,20.2
+282,251–300,National Research Nuclear University MEPhI,Russian Federation,39.0–41.0,35.3,96.1,53.7,31,39.6
+283,251–300,Newcastle University,United Kingdom,39.0–41.0,62.8,44.2,86.2,22.8,24.2
+284,251–300,Nottingham Trent University,United Kingdom,39.0–41.0,94.9,43.8,83,8.4,11.8
+285,251–300,University of Padua,Italy,39.0–41.0,72.4,46.5,39.5,20.9,25.7
+286,251–300,University of Pittsburgh-Pittsburgh campus,United States,39.0–41.0,69,44,60.3,23.6,23.7
+287,251–300,RMIT University,Australia,39.0–41.0,55.2,46.6,94,22.5,30.3
+288,251–300,"Royal Holloway, University of London",United Kingdom,39.0–41.0,57.2,44.2,89.2,25.8,22.8
+289,251–300,University of Salford,United Kingdom,39.0–41.0,77,44.4,84.7,10.3,23.7
+290,251–300,Sharif University of Technology,Iran,39.0–41.0,52.8,59.6,29.3,29.9,34.8
+291,251–300,Sichuan University,China,39.0–41.0,64.4,53.9,29,26.7,30.6
+292,251–300,Taif University,Saudi Arabia,39.0–41.0,87.9,44.2,68.6,9.8,15.9
+293,251–300,University of Tehran,Iran,39.0–41.0,78.5,43.8,30.7,20.8,27.2
+294,251–300,Universiti Teknologi Malaysia,Malaysia,39.0–41.0,48.5,47.9,67.2,28.1,32.8
+295,251–300,Thapar Institute of Engineering and Technology,India,39.0–41.0,99.3,43.9,20.9,11.9,18
+296,251–300,Ulsan National Institute of Science and Technology (UNIST),South Korea,39.0–41.0,77.4,54,38.6,23.6,22.3
+297,251–300,Victoria University,Australia,39.0–41.0,84.6,44.2,79.2,13.2,16.3
+298,251–300,University of Victoria,Canada,39.0–41.0,63,46.2,93.1,24.5,19.9
+299,251–300,University of Virginia (Main campus),United States,39.0–41.0,72.9,58.1,53.3,24.1,20.2
+300,251–300,Washington State University,United States,39.0–41.0,78.3,45.4,51.9,19.2,21.2
+301,251–300,University of Würzburg,Germany,39.0–41.0,62.8,55.4,34.1,34.3,24.1
+302,301–400,Al-Balqa Applied University,Jordan,35.8–38.9,97.7,45.8,44,9.4,12.2
+303,301–400,Amirkabir University of Technology,Iran,35.8–38.9,57.1,52,21.4,27.5,25.6
+304,301–400,Andhra University,India,35.8–38.9,79,44.2,16.3,8.9,26.9
+305,301–400,Aston University,United Kingdom,35.8–38.9,73.8,45.1,82.9,16.2,13.6
+306,301–400,University of Bath,United Kingdom,35.8–38.9,62.1,44.1,79.4,19.5,24.8
+307,301–400,University of Bayreuth,Germany,35.8–38.9,67.4,45,42.1,20.3,21.5
+308,301–400,Beihang University,China,35.8–38.9,61.3,51.8,22.6,34.5,22.4
+309,301–400,University of Campinas,Brazil,35.8–38.9,36.5,45.3,31.9,39.1,35.7
+310,301–400,University of Catania,Italy,35.8–38.9,64,44.2,23.4,24.8,24.6
+311,301–400,Changsha University of Science and Technology,China,35.8–38.9,96.3,45.2,23,11.4,15.2
+312,301–400,Charles University in Prague,Czech Republic,35.8–38.9,48,43.8,64.5,23.6,28.4
+313,301–400,"City, University of London",United Kingdom,35.8–38.9,61.6,44.4,90,19.2,23.4
+314,301–400,COMSATS University Islamabad,Pakistan,35.8–38.9,82.9,43.8,43.5,13.8,20.2
+315,301–400,Concordia University,Canada,35.8–38.9,53.3,44.1,84.6,29.1,16.1
+316,301–400,University of Crete,Greece,35.8–38.9,79.8,48,35.2,18.6,19.3
+317,301–400,Dalian University of Technology,China,35.8–38.9,73.1,47.4,23.7,24.4,19.7
+318,301–400,University of Delaware,United States,35.8–38.9,62.5,58,60.2,24.8,21.8
+319,301–400,Durham University,United Kingdom,35.8–38.9,61.4,45.5,90.6,19.6,23.5
+320,301–400,Edinburgh Napier University,United Kingdom,35.8–38.9,76.6,43.9,79,10.4,17.7
+321,301–400,Edith Cowan University,Australia,35.8–38.9,79.3,43.9,79,10.5,13.5
+322,301–400,"University of Engineering and Technology, Taxila",Pakistan,35.8–38.9,82.3,43.8,38.8,20.1,14.1
+323,301–400,Federal University of Piauí,Brazil,35.8–38.9,93.9,44.2,42.3,8.5,10.7
+324,301–400,Firat University,Turkey,35.8–38.9,94.9,43.8,19.9,8.7,13.4
+325,301–400,Florida Atlantic University,United States,35.8–38.9,74.7,45,52.5,19.4,21.1
+326,301–400,University of Geneva,Switzerland,35.8–38.9,60.2,51,94.2,19.4,17.9
+327,301–400,Georgetown University,United States,35.8–38.9,69.5,43.8,61.7,15.3,18.4
+328,301–400,University of Hamburg,Germany,35.8–38.9,53.3,46.6,41.7,28.2,30.8
+329,301–400,Hanyang University,South Korea,35.8–38.9,35.6,65.3,47.4,33.1,35.6
+330,301–400,Heriot-Watt University,United Kingdom,35.8–38.9,58.2,45.4,86.1,21,20.9
+331,301–400,University of Houston,United States,35.8–38.9,57.5,45.5,57.1,23,22.5
+332,301–400,Illinois Institute of Technology,United States,35.8–38.9,79.3,43.9,65.6,13.9,17.2
+333,301–400,Indian Institute of Technology Indore,India,35.8–38.9,81.6,44.7,19.7,22.2,19.2
+334,301–400,University of Innsbruck,Austria,35.8–38.9,61.3,49.2,91.9,17.7,21.1
+335,301–400,"International Islamic University, Islamabad",Pakistan,35.8–38.9,96.3,43.8,46.7,8.4,12.2
+336,301–400,Iowa State University,United States,35.8–38.9,63.3,54.6,40.3,29,21.7
+337,301–400,ITMO University,Russian Federation,35.8–38.9,35.7,58.5,62.5,27.2,37.4
+338,301–400,Jamia Millia Islamia,India,35.8–38.9,85.7,44.6,17.6,10.3,25.1
+339,301–400,Kalasalingam Academy of Research and Education,India,35.8–38.9,98.4,44.2,16,8,16.2
+340,301–400,University of Kentucky,United States,35.8–38.9,73.2,43.9,45.1,19.3,22.5
+341,301–400,KIIT University,India,35.8–38.9,79.1,44.2,25.2,10.5,25.6
+342,301–400,King Faisal University,Saudi Arabia,35.8–38.9,87.2,43.8,72.6,7.8,13.9
+343,301–400,Lakehead University,Canada,35.8–38.9,77.6,44.8,71.8,15.9,11.7
+344,301–400,Université Laval,Canada,35.8–38.9,60.4,52.4,66.8,26.9,16.1
+345,301–400,University of Liverpool,United Kingdom,35.8–38.9,56.7,44.3,97.2,23.8,21.9
+346,301–400,Liverpool John Moores University,United Kingdom,35.8–38.9,80.3,44.1,74.6,9.6,15.7
+347,301–400,University of Management and Technology,Pakistan,35.8–38.9,95.4,44.4,41.1,7.1,10.8
+348,301–400,McMaster University,Canada,35.8–38.9,53.7,45.2,88.3,24.8,22.6
+349,301–400,Middle East Technical University,Turkey,35.8–38.9,42.9,99,30.4,32.5,32.3
+350,301–400,Middlesex University,United Kingdom,35.8–38.9,74.7,44.2,92,11.2,15.2
+351,301–400,University of Modena and Reggio Emilia,Italy,35.8–38.9,67.5,47.1,25.8,22.6,22.6
+352,301–400,University of Münster,Germany,35.8–38.9,50.1,48.7,38.4,29.2,27.5
+353,301–400,University of Naples Federico II,Italy,35.8–38.9,72.4,48.9,24.9,24.9,23.6
+354,301–400,National and Kapodistrian University of Athens,Greece,35.8–38.9,71.8,72.1,52.4,17.4,19.6
+355,301–400,National Taiwan University of Science and Technology (Taiwan Tech),Taiwan,35.8–38.9,65.4,48.1,36.4,24.5,18
+356,301–400,National Tsing Hua University,Taiwan,35.8–38.9,40.2,59,31.1,41.4,31.4
+357,301–400,New Jersey Institute of Technology,United States,35.8–38.9,76.5,44.6,76,16.8,16.2
+358,301–400,Northumbria University,United Kingdom,35.8–38.9,73.9,43.8,83.4,13.8,15.8
+359,301–400,Northwestern Polytechnical University,China,35.8–38.9,60.8,50,29.9,26.8,30.3
+360,301–400,Norwegian University of Science and Technology,Norway,35.8–38.9,64.2,44.5,64.1,22.4,19.7
+361,301–400,Open University of Catalonia,Spain,35.8–38.9,94.9,44,43.3,10,13.4
+362,301–400,University of Ottawa,Canada,35.8–38.9,42.8,45.9,87.4,29.8,22.4
+363,301–400,University of Passau,Germany,35.8–38.9,61.5,47.4,66.4,19.3,27.2
+364,301–400,University of Plymouth,United Kingdom,35.8–38.9,65.5,43.9,81.8,14.5,23.8
+365,301–400,Universitat Politècnica de Catalunya,Spain,35.8–38.9,45.6,45.3,47.4,32.1,26.7
+366,301–400,University of Potsdam,Germany,35.8–38.9,58.5,79.3,38.6,26.6,26.6
+367,301–400,Prince Sattam Bin Abdulaziz University,Saudi Arabia,35.8–38.9,80.8,44.1,72.6,8.6,15.3
+368,301–400,University of the Punjab,Pakistan,35.8–38.9,93.9,43.8,39.7,9.8,14
+369,301–400,University of Reading,United Kingdom,35.8–38.9,64.5,44.4,90,14.9,23.2
+370,301–400,University of Regina,Canada,35.8–38.9,78.1,44.7,62.9,12.9,15.6
+371,301–400,Rensselaer Polytechnic Institute,United States,35.8–38.9,55.5,71.7,53.6,24.7,27.2
+372,301–400,University of Rhode Island,United States,35.8–38.9,90.3,43.8,55.8,10.8,13.5
+373,301–400,Universiti Sains Malaysia,Malaysia,35.8–38.9,66.4,50.1,52.8,20.6,24.9
+374,301–400,University of St Gallen,Switzerland,35.8–38.9,64.6,47.1,94.7,15.5,17
+375,301–400,University of Salamanca,Spain,35.8–38.9,75.9,46.4,39.3,14.6,19.6
+376,301–400,University of Salerno,Italy,35.8–38.9,76.5,44.2,28.8,21.1,14.4
+377,301–400,University of São Paulo,Brazil,35.8–38.9,30.7,44.2,30.8,33.4,44.4
+378,301–400,University of Saskatchewan,Canada,35.8–38.9,62.9,47.9,76.7,19.5,15.8
+379,301–400,Siksha ‘O’ Anusandhan,India,35.8–38.9,71.4,45.1,13.8,17.4,27.6
+380,301–400,University of Southern Denmark,Denmark,35.8–38.9,62.7,54.6,68.2,15.6,21.5
+381,301–400,Southwestern University of Finance and Economics,China,35.8–38.9,96.9,43.8,31.1,8.4,13
+382,301–400,Syracuse University,United States,35.8–38.9,72.7,44,49.6,17.8,24.2
+383,301–400,Tampere University,Finland,35.8–38.9,66.2,47.4,51.8,21.9,20.9
+384,301–400,University of Texas at Dallas,United States,35.8–38.9,65.6,44.9,52.4,16.9,24.9
+385,301–400,Tianjin University,China,35.8–38.9,61.6,59,31.2,29.7,20
+386,301–400,University of Turku,Finland,35.8–38.9,80.4,43.8,53.2,16.1,17.4
+387,301–400,Uppsala University,Sweden,35.8–38.9,47.2,46.9,67.4,30.1,27.6
+388,301–400,Vanderbilt University,United States,35.8–38.9,55.5,44.3,62.8,24.9,24.3
+389,301–400,Vrije Universiteit Brussel,Belgium,35.8–38.9,56,47.9,75.9,28.7,14.6
+390,301–400,Wenzhou University,China,35.8–38.9,100,44,27.4,8.2,11.9
+391,301–400,University of the West of England,United Kingdom,35.8–38.9,76.7,44,65.6,9.5,16.1
+392,301–400,The University of Western Australia,Australia,35.8–38.9,71.8,45.2,93.2,16.7,13.9
+393,301–400,Western University,Canada,35.8–38.9,56.4,51.6,84,26.6,19.3
+394,301–400,Western Sydney University,Australia,35.8–38.9,64.3,44.5,91.2,13.4,25.2
+395,301–400,University of Windsor,Canada,35.8–38.9,52.5,44.8,87.5,20.1,21.8
+396,301–400,University of Wollongong,Australia,35.8–38.9,61,43.8,97.2,18.6,13.3
+397,301–400,Yangzhou University,China,35.8–38.9,82.3,47.8,31.5,9,21.5
+398,301–400,Yıldız Technical University,Turkey,35.8–38.9,49,100,35,23.1,27.1
+399,301–400,University of York,United Kingdom,35.8–38.9,40.8,44.7,80.4,26.9,32.1
+400,301–400,Zagazig University,Egypt,35.8–38.9,100,43.8,44.4,7.9,11.5
+401,301–400,Zayed University,United Arab Emirates,35.8–38.9,83.8,44.1,74.7,10.4,14
+402,401–500,University of Aberdeen,United Kingdom,32.7–35.7,48.1,45.4,91.5,18,22.1
+403,401–500,University of the Aegean,Greece,32.7–35.7,78.8,47.2,25.6,10.5,17.5
+404,401–500,The University of Aizu,Japan,32.7–35.7,61.3,44.4,64.3,11.6,20.8
+405,401–500,University of Anbar,Iraq,32.7–35.7,89.7,44.1,33.9,8.4,11.8
+406,401–500,Autonomous University of Barcelona,Spain,32.7–35.7,61.5,44.5,49.8,16.7,20
+407,401–500,University of Babylon,Iraq,32.7–35.7,87.5,43.8,15.2,7.4,14.8
+408,401–500,Beijing Institute of Technology,China,32.7–35.7,44.3,51.2,25,36.3,25.4
+409,401–500,University of Beira Interior,Portugal,32.7–35.7,71.8,44.7,58.2,12.3,15.3
+410,401–500,University of Bergen,Norway,32.7–35.7,45.6,46.5,73.8,20.5,24
+411,401–500,University of Bremen,Germany,32.7–35.7,50.7,46.8,46.6,25.5,26.3
+412,401–500,University of Calabria,Italy,32.7–35.7,72.4,43.9,32.8,13.6,13.9
+413,401–500,University of Calgary,Canada,32.7–35.7,40.5,44.3,79.9,25.1,23.7
+414,401–500,Carleton University,Canada,32.7–35.7,48,44.5,66.6,24.5,18.6
+415,401–500,Centrale Nantes,France,32.7–35.7,47.8,51.1,75.2,16.7,22.7
+416,401–500,University of Chile,Chile,32.7–35.7,52,47.2,65.6,19.8,17.4
+417,401–500,Chung-Ang University,South Korea,32.7–35.7,43.7,66.9,33.5,25.7,24.3
+418,401–500,Colorado School of Mines,United States,32.7–35.7,73.1,43.8,30.3,14.7,12.9
+419,401–500,Covenant University,Nigeria,32.7–35.7,72.6,47,34.9,17.4,14.9
+420,401–500,Curtin University,Australia,32.7–35.7,52.4,44,91.6,13.2,21.8
+421,401–500,CY Cergy Paris University,France,32.7–35.7,41.2,45.1,71.6,21.8,23.8
+422,401–500,Delhi Technological University,India,32.7–35.7,76,44.3,15.9,14.4,17.7
+423,401–500,University of Dhaka,Bangladesh,32.7–35.7,84.6,44.7,30.1,8.1,14.1
+424,401–500,University of Duisburg-Essen,Germany,32.7–35.7,54.8,54,42.4,22.1,23.1
+425,401–500,East China Normal University,China,32.7–35.7,50.9,52.3,34.1,19.9,25.6
+426,401–500,University of Eastern Finland,Finland,32.7–35.7,54.2,43.8,56.8,16.2,22.8
+427,401–500,Federal University of Toulouse Midi-Pyrénées,France,32.7–35.7,36.7,44.8,56.5,27.3,30
+428,401–500,Federation University Australia,Australia,32.7–35.7,66.3,44.3,74.3,8.3,17.2
+429,401–500,Florida State University,United States,32.7–35.7,60,43.8,53.4,14.7,22.1
+430,401–500,George Mason University,United States,32.7–35.7,71.6,43.8,50,15,17.2
+431,401–500,University of Georgia,United States,32.7–35.7,76.9,43.9,56.2,11.4,15.4
+432,401–500,Georgia State University,United States,32.7–35.7,64.2,44.3,62,14.3,16.5
+433,401–500,University of Greenwich,United Kingdom,32.7–35.7,70.6,44,93.9,8,12.2
+434,401–500,Guangzhou University,China,32.7–35.7,79.4,44.7,27.1,10.7,11.5
+435,401–500,Hasselt University,Belgium,32.7–35.7,50.6,51.2,48.8,19.4,26.5
+436,401–500,Huaqiao University,China,32.7–35.7,75.9,44.7,50,11.5,12.2
+437,401–500,Hunan University,China,32.7–35.7,74.7,50.5,26.9,14.3,19.9
+438,401–500,Indraprastha Institute of Information Technology Delhi,India,32.7–35.7,76,54.5,26.6,13.2,17.9
+439,401–500,"International Institute of Information Technology, Hyderabad",India,32.7–35.7,79,44.7,25.3,15.9,16.1
+440,401–500,Iran University of Science and Technology,Iran,32.7–35.7,50.4,53.1,19.8,23.2,26.3
+441,401–500,Jordan University of Science and Technology,Jordan,32.7–35.7,80.6,43.8,34.8,9,13.9
+442,401–500,University of Jyväskylä,Finland,32.7–35.7,70.8,44,40.6,12.3,19.6
+443,401–500,Kazan Federal University,Russian Federation,32.7–35.7,63.6,44.9,38.1,15.6,24.6
+444,401–500,Universiti Kebangsaan Malaysia,Malaysia,32.7–35.7,58.9,44.4,65.4,12.8,25.7
+445,401–500,University of Kent,United Kingdom,32.7–35.7,57.9,44.5,87.9,15.4,16.7
+446,401–500,Kharkiv National University of Radio Electronics,Ukraine,32.7–35.7,77.8,43.9,19.2,12.1,19.9
+447,401–500,King Khalid University,Saudi Arabia,32.7–35.7,69.8,43.8,75.6,9.6,12.2
+448,401–500,KL University,India,32.7–35.7,85.9,43.8,13.8,7.8,13.3
+449,401–500,Kyungpook National University,South Korea,32.7–35.7,46.6,57.8,38.4,24.3,22.6
+450,401–500,Kyushu University,Japan,32.7–35.7,34.5,52.5,50.2,28.2,28.4
+451,401–500,La Trobe University,Australia,32.7–35.7,66.6,44.4,93.3,13.8,13.5
+452,401–500,Louisiana State University,United States,32.7–35.7,51.3,45.1,50.8,24.1,26.8
+453,401–500,Lovely Professional University,India,32.7–35.7,85.4,43.9,19.3,10.7,16.1
+454,401–500,Lund University,Sweden,32.7–35.7,47.8,50.5,55.3,29.1,18.3
+455,401–500,Majmaah University,Saudi Arabia,32.7–35.7,73,43.9,69.7,7.2,13.4
+456,401–500,Universiti Malaysia Pahang,Malaysia,32.7–35.7,75.9,43.8,49.6,10.9,14.5
+457,401–500,Massey University,New Zealand,32.7–35.7,52.2,43.8,92.1,12.7,18.9
+458,401–500,Maynooth University,Ireland,32.7–35.7,54.7,46.6,78,15.3,17.8
+459,401–500,Memorial University of Newfoundland,Canada,32.7–35.7,61.5,44,91.8,18.6,13.2
+460,401–500,Menoufia University,Egypt,32.7–35.7,88.8,44.9,41.5,8.9,10.7
+461,401–500,University of Miami,United States,32.7–35.7,66.8,43.8,76.4,15.7,14.7
+462,401–500,University of Milan-Bicocca,Italy,32.7–35.7,72.7,45.3,34.4,14.5,16.2
+463,401–500,Missouri University of Science and Technology,United States,32.7–35.7,58.6,44.7,60.2,20.5,17.6
+464,401–500,Montpellier University,France,32.7–35.7,46.3,44.3,55.2,21,24.3
+465,401–500,Murdoch University,Australia,32.7–35.7,68.7,43.8,92.2,11.3,13.6
+466,401–500,Nanjing University of Information Science and Technology,China,32.7–35.7,82.5,45.4,32.6,12.9,11.2
+467,401–500,National University of Sciences and Technology,Pakistan,32.7–35.7,51.6,46.9,38.6,27.2,19.5
+468,401–500,National Institute of Technology Hamirpur,India,32.7–35.7,85,44.6,13.1,13.8,13.7
+469,401–500,Old Dominion University,United States,32.7–35.7,72,43.8,35.5,18,14.6
+470,401–500,Plekhanov Russian University of Economics,Russian Federation,32.7–35.7,86.1,44.2,23.4,8.7,17.3
+471,401–500,Pontifical Catholic University of Rio de Janeiro (PUC-Rio),Brazil,32.7–35.7,33.3,100,31.5,31.7,29.9
+472,401–500,University of Porto,Portugal,32.7–35.7,48,48.6,36.1,24.6,23.5
+473,401–500,University of Portsmouth,United Kingdom,32.7–35.7,70.8,44,82.4,9,13.2
+474,401–500,Qingdao University,China,32.7–35.7,87.5,44.6,21.4,8.2,12.2
+475,401–500,Queen’s University,Canada,32.7–35.7,40.4,50.5,67.8,27.7,28.2
+476,401–500,South China University of Technology,China,32.7–35.7,67,46.9,35.8,20.4,18.2
+477,401–500,Southeast University,China,32.7–35.7,56.4,49.6,26.4,25.3,19
+478,401–500,University of Southern Queensland,Australia,32.7–35.7,64.9,44.3,86.4,11.5,13.6
+479,401–500,Stellenbosch University,South Africa,32.7–35.7,60.9,46.4,35.5,20.5,18.6
+480,401–500,Stockholm University,Sweden,32.7–35.7,54.4,44.1,48.9,19.7,22.2
+481,401–500,University of Strathclyde,United Kingdom,32.7–35.7,48.9,44.5,77.7,20.6,16.9
+482,401–500,SUNY University at Albany,United States,32.7–35.7,73.9,45.6,58.4,10.8,16
+483,401–500,University of Sussex,United Kingdom,32.7–35.7,56.9,44.3,87.7,13.1,20.3
+484,401–500,Symbiosis International University,India,32.7–35.7,83.3,43.8,23.2,9,13.3
+485,401–500,University of Tabriz,Iran,32.7–35.7,76,44,38,12.1,20.5
+486,401–500,University of Tasmania,Australia,32.7–35.7,56.9,46.1,92.3,13.1,15.2
+487,401–500,University of Texas at Arlington,United States,32.7–35.7,67.7,44.1,63.5,12.7,18
+488,401–500,Tongji University,China,32.7–35.7,53.2,62.6,29.6,27.5,20.6
+489,401–500,Toronto Metropolitan University,Canada,32.7–35.7,49.8,48.1,61.9,23.6,17.1
+490,401–500,TU Braunschweig,Germany,32.7–35.7,63.7,44.8,39.5,14.8,20.8
+491,401–500,University of Turin,Italy,32.7–35.7,66,45.5,30.3,17.2,18.5
+492,401–500,UiT The Arctic University of Norway,Norway,32.7–35.7,72.5,43.8,57.9,8.8,16.4
+493,401–500,Umm Al-Qura University,Saudi Arabia,32.7–35.7,66.4,53.9,76.7,12.1,17.1
+494,401–500,University of Utah,United States,32.7–35.7,52.2,44.3,39.6,29.4,20.5
+495,401–500,VIT University,India,32.7–35.7,73.5,44,23.3,14,22.4
+496,401–500,Waseda University,Japan,32.7–35.7,50.5,45.5,39.8,25.3,29.7
+497,401–500,Wayne State University,United States,32.7–35.7,64.7,44.5,48.5,14.5,23.2
+498,401–500,Worcester Polytechnic Institute,United States,32.7–35.7,60.9,45.3,45.1,17.8,16.9
+499,401–500,Xiamen University,China,32.7–35.7,81.4,51.1,27.4,13.6,14.8
+500,401–500,Xi’an Jiaotong University,China,32.7–35.7,59.8,45.7,19.7,26.7,23.2
+501,401–500,Xi’an Jiaotong-Liverpool University,China,32.7–35.7,73,44,65,11.4,13
+502,401–500,Xidian University,China,32.7–35.7,57.6,57.3,19.8,20.8,29.7
+503,401–500,Zhejiang Normal University,China,32.7–35.7,81.8,57.4,33.8,10.1,12
+504,501–600,Al-Azhar University,Egypt,28.9–32.6,58.6,44.2,42.3,12.1,16
+505,501–600,Alexandria University,Egypt,28.9–32.6,47.3,44.8,38.2,21.4,17.7
+506,501–600,Amity University,India,28.9–32.6,56.8,43.8,16.7,19.5,22.2
+507,501–600,University of L’Aquila,Italy,28.9–32.6,63.7,50.3,30.3,12.9,18.5
+508,501–600,Aristotle University of Thessaloniki,Greece,28.9–32.6,58.1,44.6,28.2,17.7,20.9
+509,501–600,University of Arizona,United States,28.9–32.6,56.7,44,40,23.1,14.1
+510,501–600,Athens University of Economics and Business,Greece,28.9–32.6,59.2,44.3,33.7,15.4,17.3
+511,501–600,Auckland University of Technology,New Zealand,28.9–32.6,36.3,43.8,91.5,13.3,19.8
+512,501–600,Autonomous University of Madrid,Spain,28.9–32.6,57.9,44.9,38.2,15.5,17.9
+513,501–600,University of Bari Aldo Moro,Italy,28.9–32.6,64.3,44.6,22.6,13.9,14.3
+514,501–600,University of the Basque Country,Spain,28.9–32.6,56,44.2,36,12.3,17.7
+515,501–600,Ben-Gurion University of the Negev,Israel,28.9–32.6,51.9,44,31.5,19.8,18.8
+516,501–600,Bielefeld University,Germany,28.9–32.6,36.4,48.9,33.5,26.2,25.7
+517,501–600,Boğaziçi University,Turkey,28.9–32.6,40.7,54.3,27.8,19.1,27.8
+518,501–600,University of Bordeaux,France,28.9–32.6,32.5,44,60.6,27.5,23.8
+519,501–600,Ca’ Foscari University of Venice,Italy,28.9–32.6,59.1,46.9,42.2,13.4,22.4
+520,501–600,University of Canterbury,New Zealand,28.9–32.6,42.4,44.1,80.6,14.2,18.2
+521,501–600,Carlos III University of Madrid,Spain,28.9–32.6,52.2,46.5,44.9,16.1,24.1
+522,501–600,Clemson University,United States,28.9–32.6,54,44.1,49.7,16,22.4
+523,501–600,University of Connecticut,United States,28.9–32.6,45.8,46,55.7,22.4,18.4
+524,501–600,University of Côte d’Azur,France,28.9–32.6,49,44,70.8,16,22.8
+525,501–600,Coventry University,United Kingdom,28.9–32.6,54.7,43.8,83.8,10,12.3
+526,501–600,University of Cyprus,Cyprus,28.9–32.6,53.4,43.8,60.7,16.3,17.7
+527,501–600,Cyprus University of Technology,Cyprus,28.9–32.6,51.6,43.8,60.4,9.9,20.9
+528,501–600,Czech Technical University in Prague,Czech Republic,28.9–32.6,43.8,45.1,57.5,21.5,17
+529,501–600,Dalhousie University,Canada,28.9–32.6,43.1,44.8,90.9,13.4,15.4
+530,501–600,University of Dayton,United States,28.9–32.6,48.9,48.6,33.4,25.1,12.5
+531,501–600,Drexel University,United States,28.9–32.6,46.4,43.9,53.7,13.7,19.5
+532,501–600,"University of Engineering and Technology, Peshawar",Pakistan,28.9–32.6,67.8,43.8,41.6,11.1,16.2
+533,501–600,Escuela Superior Politécnica del Litoral,Ecuador,28.9–32.6,67.3,43.8,45,8.6,13.7
+534,501–600,Federal University of Minas Gerais,Brazil,28.9–32.6,39.9,45,29.5,17.1,31.8
+535,501–600,University of Fribourg,Switzerland,28.9–32.6,41.1,47.3,73,12.2,23.7
+536,501–600,Friedrich Schiller University Jena,Germany,28.9–32.6,37.7,48.7,38.8,20.7,23.9
+537,501–600,University of Genoa,Italy,28.9–32.6,41.2,49.5,38,18.9,30.3
+538,501–600,University of Gothenburg,Sweden,28.9–32.6,49.6,46.8,76.5,15.8,20.4
+539,501–600,Guangdong University of Technology,China,28.9–32.6,77.7,45.4,23,13,10.4
+540,501–600,Gwangju Institute of Science and Technology (GIST),South Korea,28.9–32.6,30.2,53.8,23.3,31,32.4
+541,501–600,Université Polytechnique Hauts-de-France,France,28.9–32.6,54.6,43.9,64.7,8.8,14.8
+542,501–600,HSE University,Russian Federation,28.9–32.6,28.2,49.3,28.3,30.2,33.4
+543,501–600,Indian Institute of Technology Patna,India,28.9–32.6,49.5,43.8,20.5,19.8,25.9
+544,501–600,University of Isfahan,Iran,28.9–32.6,59,44.1,24.3,11.4,20.7
+545,501–600,Isfahan University of Technology,Iran,28.9–32.6,60.7,51.2,36.3,16.1,13.7
+546,501–600,Kazan National Research Technical University,Russian Federation,28.9–32.6,76.1,44.9,21,8.8,13.1
+547,501–600,Keio University,Japan,28.9–32.6,23.2,48.5,24.8,29.3,33.1
+548,501–600,Lappeenranta-Lahti University of Technology LUT,Finland,28.9–32.6,43.6,44.3,51.2,20.5,17.5
+549,501–600,Lebanese University,Lebanon,28.9–32.6,25,43.8,58.2,26.8,36.2
+550,501–600,University of Limerick,Ireland,28.9–32.6,44,45.2,80.2,15.1,19.5
+551,501–600,University of Lisbon,Portugal,28.9–32.6,42,45,38.4,24.7,20.1
+552,501–600,Maastricht University,Netherlands,28.9–32.6,42.5,44.5,96.2,14.9,15.8
+553,501–600,University of Malta,Malta,28.9–32.6,50.7,44.2,51.1,12.6,19.5
+554,501–600,"University of Maryland, Baltimore County",United States,28.9–32.6,62.4,44.7,33.6,14.7,19.6
+555,501–600,Masaryk University,Czech Republic,28.9–32.6,44.5,44.4,63.2,17.7,18.1
+556,501–600,University of Messina,Italy,28.9–32.6,59.3,44.1,37.5,19.6,10.8
+557,501–600,University of Milan,Italy,28.9–32.6,39.4,44.1,37.3,24.9,22.5
+558,501–600,Mississippi State University,United States,28.9–32.6,62.1,43.8,50.2,16.2,13.3
+559,501–600,University of Mons,Belgium,28.9–32.6,51.3,44.1,59.4,21.7,11.2
+560,501–600,Monterrey Institute of Technology,Mexico,28.9–32.6,57.8,52.5,41.8,12.6,15.5
+561,501–600,Nanjing Agricultural University,China,28.9–32.6,70.9,47.3,25.8,9.6,11.5
+562,501–600,National Dong Hwa University,Taiwan,28.9–32.6,65.7,44.2,48.4,12.2,13.6
+563,501–600,National Taiwan Normal University,Taiwan,28.9–32.6,45.7,48.8,28.8,25,20.1
+564,501–600,University of North Carolina at Charlotte,United States,28.9–32.6,70.6,44.2,38.2,11,15.1
+565,501–600,North South University,Bangladesh,28.9–32.6,80.2,43.8,21.4,8.4,10.2
+566,501–600,Óbuda University,Hungary,28.9–32.6,71,43.8,30.7,9.7,13.9
+567,501–600,Oklahoma State University,United States,28.9–32.6,62.5,43.9,58.3,12.8,15.3
+568,501–600,Ontario Tech University,Canada,28.9–32.6,60.5,44.1,54.3,11.6,16.1
+569,501–600,The Open University,United Kingdom,28.9–32.6,62.1,43.9,51.3,10.9,17.5
+570,501–600,University of Otago,New Zealand,28.9–32.6,49.8,43.8,84.5,13.5,20.6
+571,501–600,Ozyegin University,Turkey,28.9–32.6,63.2,44,43.1,19.9,11.1
+572,501–600,Panjab University,India,28.9–32.6,55.6,43.8,13.1,16.8,22.5
+573,501–600,Polytechnic University of Valencia,Spain,28.9–32.6,50.4,50.5,43.7,22.2,19.8
+574,501–600,Pontificia Universidad Católica de Chile,Chile,28.9–32.6,59.9,46.9,51.4,16.2,16.6
+575,501–600,Pontifícia Universidade Católica do Paraná,Brazil,28.9–32.6,59,50.4,20.7,13,19.2
+576,501–600,Princess Nourah bint Abdulrahman University,Saudi Arabia,28.9–32.6,52,45.6,80.8,12.5,19.1
+577,501–600,University of Rennes 1,France,28.9–32.6,39.5,44.9,53.5,20,27.8
+578,501–600,Sabancı University,Turkey,28.9–32.6,40,48.9,39.9,24.8,22.5
+579,501–600,University of Science and Technology Beijing,China,28.9–32.6,58.6,47.1,22,17.6,23.5
+580,501–600,Shahrood University of Technology,Iran,28.9–32.6,62.7,44.3,24.7,12.5,23.6
+581,501–600,Shanghai University,China,28.9–32.6,35.8,64.2,21.8,33.9,22.7
+582,501–600,Shiraz University,Iran,28.9–32.6,55.2,44.5,24.2,22,18.2
+583,501–600,University of Siena,Italy,28.9–32.6,46.9,44.8,37.2,15.5,21.6
+584,501–600,Soonchunhyang University,South Korea,28.9–32.6,62,44.7,36.9,10.1,12.7
+585,501–600,University of South Florida,United States,28.9–32.6,51.4,46.2,61.6,15.2,13.9
+586,501–600,Taibah University,Saudi Arabia,28.9–32.6,67.5,43.8,72,7,12.5
+587,501–600,Tallinn University of Technology,Estonia,28.9–32.6,55.9,46.7,67,11.5,15.4
+588,501–600,Tanta University,Egypt,28.9–32.6,73,43.8,44.9,8.6,12.2
+589,501–600,Technical University of Madrid,Spain,28.9–32.6,43.4,44.7,48.3,17,20.6
+590,501–600,Universiti Teknologi Petronas,Malaysia,28.9–32.6,40.9,52.9,54.3,22.5,16.8
+591,501–600,Tilburg University,Netherlands,28.9–32.6,57.1,43.9,75.9,17.5,11.3
+592,501–600,University of Tsukuba,Japan,28.9–32.6,12.1,45.3,27.2,30.6,41.9
+593,501–600,Tufts University,United States,28.9–32.6,46.5,43.8,40.6,19.6,22.7
+594,501–600,United Arab Emirates University,United Arab Emirates,28.9–32.6,48.1,45.6,75.5,14.2,14.5
+595,501–600,University College Cork,Ireland,28.9–32.6,36.1,45.8,81.1,16.3,19.4
+596,501–600,University of Valladolid,Spain,28.9–32.6,62.1,45.5,34.2,10.3,13.1
+597,501–600,Vilnius Gediminas Technical University (Vilnius Tech),Lithuania,28.9–32.6,64.3,43.9,30.1,7.9,15.6
+598,501–600,Virginia Commonwealth University,United States,28.9–32.6,67.7,45.5,28.6,8.1,17.6
+599,501–600,University of Waikato,New Zealand,28.9–32.6,43.4,44.2,90.9,15.3,15.9
+600,501–600,Zhejiang Gongshang University,China,28.9–32.6,75.7,44.5,33.1,8,11.6
+601,601–800,University of A Coruña,Spain,22.1–28.8,33.8,45.2,30.1,13.1,20.8
+602,601–800,Ain Shams University,Egypt,22.1–28.8,30.2,44.2,31.3,19,17.2
+603,601–800,Aix-Marseille University,France,22.1–28.8,32.2,44.3,66.2,14.9,17.9
+604,601–800,Ajou University,South Korea,22.1–28.8,43.2,51.4,30.4,15.5,21.5
+605,601–800,The University of Alabama,United States,22.1–28.8,52,43.8,32.9,13.8,15.1
+606,601–800,University of Alcalá,Spain,22.1–28.8,49.1,47.9,43.3,9.2,15.7
+607,601–800,Al-Farabi Kazakh National University,Kazakhstan,22.1–28.8,26.6,43.8,49.7,11.7,18.7
+608,601–800,University of Alicante,Spain,22.1–28.8,32.6,44.5,42.3,10,19
+609,601–800,Aligarh Muslim University,India,22.1–28.8,49.3,43.8,23.8,10.7,22.2
+610,601–800,American University of Beirut,Lebanon,22.1–28.8,46.6,43.9,55.5,17.3,14.1
+611,601–800,American University of Sharjah,United Arab Emirates,22.1–28.8,35.3,43.8,85.4,17.2,15
+612,601–800,"University of the Andes, Colombia",Colombia,22.1–28.8,43.8,45.3,38.1,9.4,12.4
+613,601–800,University of Arkansas,United States,22.1–28.8,46.5,44.1,31.9,19.9,12.4
+614,601–800,Assiut University,Egypt,22.1–28.8,55.3,43.8,56.9,8.2,12.6
+615,601–800,Babeş-Bolyai University,Romania,22.1–28.8,43.6,43.8,25.7,10.1,14.3
+616,601–800,Bahria University,Pakistan,22.1–28.8,62.3,43.8,39.3,7.5,14.2
+617,601–800,Bandung Institute of Technology (ITB),Indonesia,22.1–28.8,19.3,59.4,17.8,33.6,19.1
+618,601–800,Beijing Jiaotong University,China,22.1–28.8,42.6,51.5,25.2,17.7,17.8
+619,601–800,Beijing Normal University,China,22.1–28.8,29.4,49.8,23,22.6,26.1
+620,601–800,Bharathiar University,India,22.1–28.8,28.2,43.8,15.8,29.4,26.6
+621,601–800,Bilkent University,Turkey,22.1–28.8,28.7,43.8,44.8,13.7,17.8
+622,601–800,University of Biskra,Algeria,22.1–28.8,40.8,43.8,38.4,7.8,15.8
+623,601–800,Université Bourgogne Franche-Comté (UBFC),France,22.1–28.8,36.7,44,64.6,12.3,22.8
+624,601–800,Bournemouth University,United Kingdom,22.1–28.8,42.7,44.1,80.2,9,12.5
+625,601–800,Instituto Politécnico de Bragança,Portugal,22.1–28.8,52,44.8,52.6,9.1,12.4
+626,601–800,Brno University of Technology,Czech Republic,22.1–28.8,38.7,45.9,52.2,21.7,16.9
+627,601–800,Budapest University of Technology and Economics,Hungary,22.1–28.8,36.7,46.9,29.2,13.6,14.9
+628,601–800,University of Cape Town,South Africa,22.1–28.8,26.7,46.1,57.9,21,25.7
+629,601–800,Technical University of Cartagena,Spain,22.1–28.8,41,44.4,30.9,8.4,16.1
+630,601–800,Charles Sturt University,Australia,22.1–28.8,43.4,43.8,77.5,9.1,16
+631,601–800,Chongqing University,China,22.1–28.8,45.7,50.7,19,17.3,17
+632,601–800,Chosun University,South Korea,22.1–28.8,48.4,56.6,20.7,14,14.3
+633,601–800,Chulalongkorn University,Thailand,22.1–28.8,21.8,52.2,20.2,18.5,26.3
+634,601–800,Claude Bernard University Lyon 1,France,22.1–28.8,29.6,45.7,65.6,24.8,17.9
+635,601–800,University of Coimbra,Portugal,22.1–28.8,36.9,46.5,33.5,20.5,21.6
+636,601–800,"Colorado State University, Fort Collins",United States,22.1–28.8,33.8,44.3,54.3,17.3,16.3
+637,601–800,Comenius University in Bratislava,Slovakia,22.1–28.8,38.2,43.8,41.5,12.4,13.7
+638,601–800,Complutense University of Madrid,Spain,22.1–28.8,28.5,44.2,35.1,16.3,22.1
+639,601–800,Cracow University of Technology,Poland,22.1–28.8,55.4,43.8,25.6,7.8,11.3
+640,601–800,De La Salle University,Philippines,22.1–28.8,46.7,43.8,17.5,9.5,13.9
+641,601–800,Donghua University,China,22.1–28.8,39.5,64.6,32.5,15.6,13.6
+642,601–800,Heinrich Heine University Düsseldorf,Germany,22.1–28.8,28.4,43.8,34.7,18.5,21.9
+643,601–800,University of Engineering & Technology (UET) Lahore,Pakistan,22.1–28.8,47.9,43.8,38.9,11.1,16.6
+644,601–800,Universidade Estadual Paulista (Unesp),Brazil,22.1–28.8,29.3,44.8,28.1,13,22.6
+645,601–800,Ewha Womans University,South Korea,22.1–28.8,33.6,72.8,24.7,20.6,15.7
+646,601–800,Federal University of Espírito Santo,Brazil,22.1–28.8,43.3,44.9,27.1,9.2,16.4
+647,601–800,Universidade Federal do Paraná (UFPR),Brazil,22.1–28.8,42.7,44.6,21.5,10.4,24.9
+648,601–800,Federal University of Rio de Janeiro,Brazil,22.1–28.8,26.6,43.8,28,20.5,21.5
+649,601–800,Universidade Federal do Rio Grande do Sul,Brazil,22.1–28.8,32,45.6,30.6,19.6,28.5
+650,601–800,Ferdowsi University of Mashhad,Iran,22.1–28.8,43.8,46.2,23.8,16.8,16.3
+651,601–800,Ferhat Abbas Sétif University 1,Algeria,22.1–28.8,41.5,43.8,36.8,9.3,11.6
+652,601–800,University of Florence,Italy,22.1–28.8,40.3,49.2,31.3,16.5,23.3
+653,601–800,Fuzhou University,China,22.1–28.8,43.1,45.6,26.7,11.4,14
+654,601–800,Gazi University,Turkey,22.1–28.8,59.6,43.8,16,8.7,14.8
+655,601–800,Gdańsk University of Technology,Poland,22.1–28.8,34.7,44.9,29.1,12.4,17
+656,601–800,Georgia Southern University,United States,22.1–28.8,55.3,43.8,36.2,9.7,11.2
+657,601–800,Goethe University Frankfurt,Germany,22.1–28.8,43.9,44.3,48.9,12.3,17.6
+658,601–800,University of Guadalajara,Mexico,22.1–28.8,49,43.8,27.8,7.3,11.2
+659,601–800,University of Haifa,Israel,22.1–28.8,33.2,44,37.3,13,13.6
+660,601–800,Hanoi University of Science and Technology,Vietnam,22.1–28.8,32.7,45.5,34.8,14.8,14
+661,601–800,Université Hassan II de Casablanca,Morocco,22.1–28.8,38.7,44,16.2,7.6,19.2
+662,601–800,University of Hawai’i at Mānoa,United States,22.1–28.8,28.8,44,58.3,16.3,17.4
+663,601–800,University of Hertfordshire,United Kingdom,22.1–28.8,37.8,43.8,89.9,8.3,11.4
+664,601–800,Hokkaido University,Japan,22.1–28.8,17.7,49.4,28.3,18.3,28.1
+665,601–800,Hosei University,Japan,22.1–28.8,38.3,44.4,31.1,14.8,13.8
+666,601–800,University of Huddersfield,United Kingdom,22.1–28.8,36.8,44.4,79.1,13.3,17.1
+667,601–800,Ilmenau University of Technology,Germany,22.1–28.8,43.8,48.2,41.4,14.3,21.3
+668,601–800,Imam Abdulrahman Bin Faisal University,Saudi Arabia,22.1–28.8,42.4,44,63.7,9,13
+669,601–800,Incheon National University,South Korea,22.1–28.8,56.3,44.2,30,10.5,11.4
+670,601–800,Indian Institute of Technology Guwahati,India,22.1–28.8,27.6,43.9,14.6,18.1,25
+671,601–800,Indian Institute of Technology Gandhinagar,India,22.1–28.8,36.4,43.8,16.7,25.4,18.4
+672,601–800,University of Indonesia,Indonesia,22.1–28.8,17.6,57.1,31.4,14.1,27.3
+673,601–800,International Hellenic University,Greece,22.1–28.8,53.9,43.9,31.4,9.7,15
+674,601–800,ISCTE-University Institute of Lisbon,Portugal,22.1–28.8,39.1,44,25.1,14.5,13.2
+675,601–800,Jagiellonian University,Poland,22.1–28.8,25.2,43.8,25.9,15.2,23
+676,601–800,Jaume I University,Spain,22.1–28.8,37.3,43.9,41.1,8.1,15.2
+677,601–800,Jawaharlal Nehru University,India,22.1–28.8,39.4,44.3,15.8,18.2,29.2
+678,601–800,University of Jeddah,Saudi Arabia,22.1–28.8,56.7,44.3,68,7.2,11.3
+679,601–800,Jiangnan University,China,22.1–28.8,43.3,45.9,22.1,12.1,10.9
+680,601–800,Jiangsu Normal University,China,22.1–28.8,67.2,44.7,22.1,8.4,10.8
+681,601–800,Jiangxi University of Finance and Economics,China,22.1–28.8,59.9,43.8,22.4,7.2,11.3
+682,601–800,Jinan University,China,22.1–28.8,56.6,44.3,44.2,9.4,13.9
+683,601–800,University of Johannesburg,South Africa,22.1–28.8,42.9,44,55.3,18.3,13.9
+684,601–800,Kanazawa University,Japan,22.1–28.8,41.7,44.9,25,9.9,18.3
+685,601–800,Kansas State University,United States,22.1–28.8,45.9,44,45.4,13.9,13.4
+686,601–800,Kaunas University of Technology,Lithuania,22.1–28.8,52.6,44.3,33.8,8.5,12.6
+687,601–800,Khon Kaen University,Thailand,22.1–28.8,32.7,43.8,18.4,15.6,17.6
+688,601–800,University of Kiel,Germany,22.1–28.8,32.4,43.8,38.8,16.1,18.3
+689,601–800,King Mongkut’s University of Technology Thonburi,Thailand,22.1–28.8,49.5,47.7,26.4,11.7,15.7
+690,601–800,K.N. Toosi University of Technology,Iran,22.1–28.8,47.5,45.1,29,19.2,13.2
+691,601–800,Konkuk University,South Korea,22.1–28.8,28.7,48.5,20.8,20.8,14.9
+692,601–800,University of KwaZulu-Natal,South Africa,22.1–28.8,43,43.8,40.6,18.4,18.7
+693,601–800,University of Lahore,Pakistan,22.1–28.8,49.4,44,42.4,8.1,12.7
+694,601–800,University of La Laguna,Spain,22.1–28.8,39.8,43.9,29.9,8.7,17.1
+695,601–800,University of Latvia,Latvia,22.1–28.8,30,57.2,36.7,15.6,14.2
+696,601–800,University of Lille,France,22.1–28.8,34.3,45.9,58.4,16.4,17.2
+697,601–800,University of Ljubljana,Slovenia,22.1–28.8,53.7,43.8,44.2,12.1,14.3
+698,601–800,University of Lorraine,France,22.1–28.8,36.1,46.4,57,13.8,25.1
+699,601–800,Mahidol University,Thailand,22.1–28.8,47.8,50.2,44.4,14.6,16.2
+700,601–800,University of Malaga,Spain,22.1–28.8,40.1,46.1,38.1,12.8,16.5
+701,601–800,University of Manouba,Tunisia,22.1–28.8,43.1,43.8,35.7,9.9,16.8
+702,601–800,University of Maribor,Slovenia,22.1–28.8,45.3,46.3,36.3,9.3,12.2
+703,601–800,University of Marrakech Cadi Ayyad,Morocco,22.1–28.8,35.6,44.5,25.1,13,23.1
+704,601–800,University of Memphis,United States,22.1–28.8,30.3,43.8,36.4,19.5,12.6
+705,601–800,Mohammed V University of Rabat,Morocco,22.1–28.8,26.4,45.6,21.5,17.1,25.1
+706,601–800,University of Monastir,Tunisia,22.1–28.8,41.2,43.8,39.6,7.6,14.9
+707,601–800,Moscow Aviation Institute,Russian Federation,22.1–28.8,40.3,45.4,20.1,12,19.2
+708,601–800,Multimedia University,Malaysia,22.1–28.8,37.4,44.6,32.5,10,15.1
+709,601–800,University of Mumbai,India,22.1–28.8,31.3,44.5,16.1,21.3,21.6
+710,601–800,University of Murcia,Spain,22.1–28.8,42.8,44.5,37.9,9.6,16.6
+711,601–800,Nanjing University of Aeronautics and Astronautics,China,22.1–28.8,35.2,46.8,20.3,21.9,18.2
+712,601–800,Nanjing Forestry University,China,22.1–28.8,50.9,45,18.8,7.1,12.1
+713,601–800,National Central University,Taiwan,22.1–28.8,27.1,57.8,24.3,18,19.1
+714,601–800,National Cheng Kung University (NCKU),Taiwan,22.1–28.8,18.7,65.6,20.6,24.8,24.8
+715,601–800,National Chung Cheng University,Taiwan,22.1–28.8,24.9,45.1,17.2,21.3,19.9
+716,601–800,National University of Distance Education (UNED),Spain,22.1–28.8,43.9,44,24.2,8.1,13.8
+717,601–800,National Sun Yat-Sen University,Taiwan,22.1–28.8,31.2,46.3,32.5,21.6,18.6
+718,601–800,National Technical University of Ukraine – Igor Sikorsky Kyiv Polytechnic Institute,Ukraine,22.1–28.8,60,43.8,17.3,10.1,15.1
+719,601–800,"University of Nevada, Las Vegas",United States,22.1–28.8,50.9,43.8,38.2,13.8,16.3
+720,601–800,New Mexico State University (Main campus),United States,22.1–28.8,15.9,46.2,48.9,20.8,19.6
+721,601–800,North China Electric Power University,China,22.1–28.8,29.5,52.6,19.1,16.8,16.6
+722,601–800,"Northeastern University, China",China,22.1–28.8,35.9,44.6,26.7,15.4,14.7
+723,601–800,Northeast Normal University,China,22.1–28.8,54.4,44.5,20,13.4,10.5
+724,601–800,North-West University,South Africa,22.1–28.8,61.9,43.8,29.5,9.8,13.6
+725,601–800,Novosibirsk State University,Russian Federation,22.1–28.8,8.7,43.8,19.1,26,34.5
+726,601–800,Oakland University,United States,22.1–28.8,30.9,44.3,53.2,13.1,23.2
+727,601–800,University of Parma,Italy,22.1–28.8,52.6,44.1,25.8,8.6,14.5
+728,601–800,University of Patras,Greece,22.1–28.8,54.1,45.3,28.1,16.7,15.2
+729,601–800,University of Perugia,Italy,22.1–28.8,48.7,45.4,35.4,10.6,15.5
+730,601–800,Pondicherry University,India,22.1–28.8,21.8,43.8,12.7,19,25.4
+731,601–800,Pontifical Catholic University of Rio Grande do Sul (PUCRS),Brazil,22.1–28.8,36.5,53.3,27.2,11.7,18.1
+732,601–800,Pontifical Catholic University of Valparaíso,Chile,22.1–28.8,48.4,44.9,45.1,11.4,13
+733,601–800,University of Pretoria,South Africa,22.1–28.8,35.8,44,38.5,15.1,15.6
+734,601–800,Public University of Navarre,Spain,22.1–28.8,48.3,44.7,46.4,10.3,12.4
+735,601–800,Pusan National University,South Korea,22.1–28.8,26.1,48.8,23.2,22.9,22.2
+736,601–800,Universiti Putra Malaysia,Malaysia,22.1–28.8,25.1,44,63.2,13.9,25.3
+737,601–800,Qassim University,Saudi Arabia,22.1–28.8,34,45.6,65,8,13
+738,601–800,University Rey Juan Carlos,Spain,22.1–28.8,47.5,44.6,38.4,10,14.2
+739,601–800,Reykjavík University,Iceland,22.1–28.8,28.1,44.2,73.3,13.1,11.6
+740,601–800,Ritsumeikan University,Japan,22.1–28.8,34.1,44.3,38.9,13.8,18.1
+741,601–800,Rochester Institute of Technology,United States,22.1–28.8,50,43.9,36.1,14.3,15.8
+742,601–800,University of Rome III,Italy,22.1–28.8,46.3,45.7,33.1,11.3,16.5
+743,601–800,Rovira i Virgili University,Spain,22.1–28.8,39.4,43.8,53.6,10,20.3
+744,601–800,RUDN University,Russian Federation,22.1–28.8,38.5,46.3,47.6,16.6,19.1
+745,601–800,Saint Petersburg State University,Russian Federation,22.1–28.8,16.2,44.3,29.2,29.6,28
+746,601–800,University of Salento,Italy,22.1–28.8,49.9,44.6,24.2,11,21.1
+747,601–800,San Diego State University,United States,22.1–28.8,44.4,43.9,43,8,22.6
+748,601–800,University of Santiago de Compostela,Spain,22.1–28.8,44.7,46.8,35,10.4,18.7
+749,601–800,SASTRA University,India,22.1–28.8,63,43.9,17.4,9.3,15.2
+750,601–800,Seoul National University of Science and Technology (SeoulTech),South Korea,22.1–28.8,42.9,44.2,26.3,22.5,15.8
+751,601–800,University of Seville,Spain,22.1–28.8,46.9,46.6,34.8,17.6,15.5
+752,601–800,University of Sfax,Tunisia,22.1–28.8,34.1,43.8,37.9,15.2,21.6
+753,601–800,Shahid Bahonar University of Kerman,Iran,22.1–28.8,58,46.8,19.8,9.1,14.9
+754,601–800,Shahid Beheshti University,Iran,22.1–28.8,31.2,53,19.7,18.3,12.9
+755,601–800,Shanghai Maritime University,China,22.1–28.8,56.9,49.5,23,11.9,10.3
+756,601–800,Shantou University,China,22.1–28.8,55.8,44.9,27.9,10.4,10.9
+757,601–800,Sidi Mohamed Ben Abdellah University,Morocco,22.1–28.8,49.1,43.8,18.1,14.3,19.6
+758,601–800,Silesian University of Technology,Poland,22.1–28.8,64.1,44,17.5,10.8,13.8
+759,601–800,Sofia University,Bulgaria,22.1–28.8,57.8,43.9,24.2,11.4,18.4
+760,601–800,Sogang University,South Korea,22.1–28.8,24.6,47.8,17.2,21.2,20.2
+761,601–800,"Soochow University, China",China,22.1–28.8,37.2,47.6,19.4,14,13.2
+762,601–800,University of Sousse,Tunisia,22.1–28.8,42.7,43.8,31.5,11.7,21.5
+763,601–800,South Ural State University,Russian Federation,22.1–28.8,46.6,43.9,26,8.1,13.7
+764,601–800,Southwest Jiaotong University,China,22.1–28.8,49,44.1,20.6,12.1,22.6
+765,601–800,SRM Institute of Science and Technology,India,22.1–28.8,55.4,43.8,15.4,9.1,15.9
+766,601–800,University of St Andrews,United Kingdom,22.1–28.8,24.4,44,76.5,14.2,18.6
+767,601–800,St Petersburg Electrotechnical University (LETI),Russian Federation,22.1–28.8,35.6,46.7,29.5,14.1,15.9
+768,601–800,University of Strasbourg,France,22.1–28.8,41.9,51,56.2,10.4,17.2
+769,601–800,Technological University Dublin,Ireland,22.1–28.8,35.4,43.9,56.2,12.1,15.7
+770,601–800,Telkom University,Indonesia,22.1–28.8,33.9,44.5,21.6,14.1,18.4
+771,601–800,Universiti Tenaga Nasional (UNITEN),Malaysia,22.1–28.8,48,49,38.2,10,17.6
+772,601–800,University of Texas at El Paso,United States,22.1–28.8,12.2,43.8,32.5,27.4,26.9
+773,601–800,Texas State University,United States,22.1–28.8,43.8,43.8,46.8,7.9,13.7
+774,601–800,Tomsk Polytechnic University,Russian Federation,22.1–28.8,40.4,43.8,39.2,10.6,20.7
+775,601–800,Tomsk State University,Russian Federation,22.1–28.8,12.3,51,53.5,19.9,21.2
+776,601–800,University of Tunis El Manar,Tunisia,22.1–28.8,25.3,44.2,37.3,13.2,23.9
+777,601–800,Universiti Tunku Abdul Rahman (UTAR),Malaysia,22.1–28.8,51.7,43.9,30.5,10.5,13
+778,601–800,University of Udine,Italy,22.1–28.8,43.3,44.3,30.9,11.6,21.2
+779,601–800,Ulster University,United Kingdom,22.1–28.8,35.4,45.8,68.1,9.4,10.8
+780,601–800,Umeå University,Sweden,22.1–28.8,49.4,43.8,50.8,14.9,14.8
+781,601–800,Paris Lodron Universität Salzburg,Austria,22.1–28.8,40.3,46.2,65.8,15.5,16.9
+782,601–800,Université Chouaib Doukkali,Morocco,22.1–28.8,51.4,44,15.7,8.9,11.9
+783,601–800,Universiti Tun Hussein Onn Malaysia (UTHM),Malaysia,22.1–28.8,43.6,43.9,37.7,12.3,14.7
+784,601–800,Universiti Utara Malaysia,Malaysia,22.1–28.8,25.9,46.5,71.1,11.8,23.1
+785,601–800,University of Valencia,Spain,22.1–28.8,37.8,46.9,42.1,10.6,18.3
+786,601–800,Verona University,Italy,22.1–28.8,38.4,47.4,39.8,11.5,18.5
+787,601–800,"Vietnam National University, Hanoi",Vietnam,22.1–28.8,34.8,44.5,36.7,9.2,17.1
+788,601–800,University of Vigo,Spain,22.1–28.8,40.2,44.4,39.3,12.5,13.5
+789,601–800,VSB - Technical University of Ostrava,Czech Republic,22.1–28.8,24.9,45.4,43.7,16.7,18.3
+790,601–800,Warsaw University of Technology,Poland,22.1–28.8,28.3,46.3,24.3,20.3,23.4
+791,601–800,University of West Attica,Greece,22.1–28.8,59.7,43.8,18.6,7.8,10.7
+792,601–800,University of West Bohemia,Czech Republic,22.1–28.8,38.5,45.7,23.5,13.2,21.5
+793,601–800,University of Wisconsin-Milwaukee,United States,22.1–28.8,40.2,43.8,39.1,13.9,13.7
+794,601–800,University of the Witwatersrand,South Africa,22.1–28.8,26.4,51.6,56.1,17.5,16.4
+795,601–800,Yarmouk University,Jordan,22.1–28.8,58.6,44.4,43.1,9.2,11.7
+796,601–800,Yazd University,Iran,22.1–28.8,41.8,43.9,30.9,12.5,15.1
+797,601–800,University of Zagreb,Croatia,22.1–28.8,39.7,60.9,23.2,12.6,17.7
+798,601–800,University of Zaragoza,Spain,22.1–28.8,50.5,45.1,36.3,11.8,18.2
+799,601–800,Zhejiang University of Technology,China,22.1–28.8,44.2,47.8,21.2,11.1,11.5
+800,601–800,Zhengzhou University,China,22.1–28.8,42.5,44,20,10.4,16.4
+801,801+,Abdelmalek Essaâdi University,Morocco,11.0–22.0,21.6,43.8,17.9,8.5,19.5
+802,801+,University of Abou Bekr Belkaïd Tlemcen,Algeria,11.0–22.0,21.4,43.8,26.8,7.8,12.8
+803,801+,AGH University of Science and Technology,Poland,11.0–22.0,25,48.9,19.6,15.8,20.2
+804,801+,Alexandru Ioan Cuza University,Romania,11.0–22.0,14.8,43.8,18.4,9.1,11.6
+805,801+,"Arab Academy for Science, Technology and Maritime Transport",Egypt,11.0–22.0,33,44.4,29.1,9.5,14.2
+806,801+,Ariel University,Israel,11.0–22.0,20.7,45,22.7,8.8,11.7
+807,801+,Badji Mokhtar University – Annaba,Algeria,11.0–22.0,32.7,43.8,28.3,7.2,14.3
+808,801+,University of Baghdad,Iraq,11.0–22.0,6.9,48.2,17.1,9,15.5
+809,801+,University of the Balearic Islands,Spain,11.0–22.0,29.4,43.8,34.1,10.7,16.2
+810,801+,Bangladesh University of Engineering and Technology,Bangladesh,11.0–22.0,39.3,44,20.2,10.1,14.3
+811,801+,University of Belgrade,Serbia,11.0–22.0,30,45.6,35.9,10.7,14.3
+812,801+,Bialystok University of Technology,Poland,11.0–22.0,12.7,43.8,16.3,15.3,19.4
+813,801+,BINUS University,Indonesia,11.0–22.0,40.1,49.2,15.1,9.2,13.5
+814,801+,University of Brasília,Brazil,11.0–22.0,18.2,46.7,22.2,10.2,13.2
+815,801+,University of Brawijaya,Indonesia,11.0–22.0,10.2,44.6,17.3,9.3,12.6
+816,801+,University of Bucharest,Romania,11.0–22.0,24,44,23.1,11.7,11.2
+817,801+,University of Cadiz,Spain,11.0–22.0,30.7,44.2,29.6,9,14
+818,801+,University of Calcutta,India,11.0–22.0,20.7,45.1,14.7,11.5,25.1
+819,801+,University of Carthage,Tunisia,11.0–22.0,28.4,43.8,37.3,11.5,15.6
+820,801+,University of Castilla-La Mancha,Spain,11.0–22.0,27.3,44.2,31.3,11.5,17.5
+821,801+,Chang Gung University,Taiwan,11.0–22.0,33.7,53.3,19.6,11.2,14
+822,801+,Chaoyang University of Technology,Taiwan,11.0–22.0,21.4,44.8,25.6,13.8,16.2
+823,801+,Chiang Mai University,Thailand,11.0–22.0,21.6,50,26.4,11.4,16.3
+824,801+,"China University of Geosciences, Beijing",China,11.0–22.0,14.6,44.5,17.6,9,13
+825,801+,Chonnam National University,South Korea,11.0–22.0,22.1,44,20.7,15.2,17
+826,801+,Chungbuk National University,South Korea,11.0–22.0,30.7,45,23.6,12.1,14.6
+827,801+,Chungnam National University,South Korea,11.0–22.0,13.5,46.9,15.4,19,15.4
+828,801+,Chung Yuan Christian University,Taiwan,11.0–22.0,28.4,44.9,29.9,17.1,10.7
+829,801+,Chuo University,Japan,11.0–22.0,12.1,45.7,18.2,13.1,12.6
+830,801+,University of Clermont Auvergne,France,11.0–22.0,28.4,44,60.2,9.4,13.6
+831,801+,Cochin University of Science and Technology,India,11.0–22.0,22.6,43.8,14.1,16.9,23.5
+832,801+,Communication University of China,China,11.0–22.0,6.7,45.5,13.3,8.8,14.3
+833,801+,University of Craiova,Romania,11.0–22.0,15.7,43.8,18.8,9.6,11.3
+834,801+,University of Debrecen,Hungary,11.0–22.0,24.3,43.8,47.7,10.9,16.7
+835,801+,Doshisha University,Japan,11.0–22.0,11,43.9,20.3,9.8,13.3
+836,801+,The University of Electro-Communications,Japan,11.0–22.0,16.9,45.3,24.7,18.4,18.6
+837,801+,Eötvös Loránd University,Hungary,11.0–22.0,27.5,43.8,43.7,13.4,16
+838,801+,Universidade do Estado do Rio de Janeiro (UERJ),Brazil,11.0–22.0,17.8,45.8,32.6,9,17.8
+839,801+,Universidade Federal do ABC (UFABC),Brazil,11.0–22.0,21.5,44.4,23.9,12.1,17.7
+840,801+,Universidade Federal da Bahia,Brazil,11.0–22.0,16.9,43.8,21.9,8.8,14.7
+841,801+,Universidade Federal do Ceará (UFC),Brazil,11.0–22.0,29.9,47.6,31,8.7,14.1
+842,801+,Federal University of Goiás,Brazil,11.0–22.0,16.2,44,21.5,8.2,11.3
+843,801+,Universidade Federal de Juiz de Fora,Brazil,11.0–22.0,23.6,43.9,16.3,9.2,13.4
+844,801+,Federal University of Pará,Brazil,11.0–22.0,27.7,44.5,22.3,8.7,13.1
+845,801+,Federal University of Paraí­ba (UFPB),Brazil,11.0–22.0,24,43.8,20.1,7.6,13.1
+846,801+,Federal University of Pernambuco,Brazil,11.0–22.0,23.5,49.9,21,12,25.2
+847,801+,Federal University of Rio Grande do Norte (UFRN),Brazil,11.0–22.0,32.1,44.3,28.1,8.3,17.3
+848,801+,Federal Rural University of Pernambuco,Brazil,11.0–22.0,28.8,43.8,23.4,8.1,13.9
+849,801+,Universidade Federal de Santa Catarina,Brazil,11.0–22.0,24.9,44,28.4,10.4,18.7
+850,801+,Federal University of Santa Maria,Brazil,11.0–22.0,12.7,44.5,17.5,8.6,12.7
+851,801+,Federal University of São Carlos,Brazil,11.0–22.0,29.5,43.8,21,12.3,20.6
+852,801+,Federal University of Uberlândia,Brazil,11.0–22.0,23.9,43.8,21.4,8.5,15.4
+853,801+,Federico Santa María Technical University,Chile,11.0–22.0,35,44,43.8,8.2,10.7
+854,801+,Feng Chia University,Taiwan,11.0–22.0,28.3,44.8,34.7,10.9,14.2
+855,801+,Financial University under the Government of the Russian Federation,Russian Federation,11.0–22.0,39.1,44.7,16.2,7.6,14.4
+856,801+,Fluminense Federal University,Brazil,11.0–22.0,27.5,44.2,21,9.7,12.8
+857,801+,Universidad de las Fuerzas Armadas – ESPE,Ecuador,11.0–22.0,25.3,43.8,32.8,8.7,12.2
+858,801+,Fujian Agriculture and Forestry University,China,11.0–22.0,32.3,44.5,20.4,7.8,10.8
+859,801+,Fujian Normal University,China,11.0–22.0,41,44.5,23,8.6,11
+860,801+,Université de Gabès,Tunisia,11.0–22.0,29.9,43.8,34.4,7.8,12.8
+861,801+,GITAM University,India,11.0–22.0,28.9,43.8,13.8,6.9,12.7
+862,801+,Guangxi University,China,11.0–22.0,18,44.7,16.5,8.8,11.1
+863,801+,Gyeongsang National University,South Korea,11.0–22.0,22.8,44.3,31.1,17.8,13.9
+864,801+,Université Hassan 1er,Morocco,11.0–22.0,26.9,43.8,17.3,11.7,24.6
+865,801+,Helwan University,Egypt,11.0–22.0,41.4,43.8,26.8,8,11
+866,801+,Hiroshima University,Japan,11.0–22.0,17.6,45.3,26.9,17.2,18.6
+867,801+,University of Hradec Králové,Czech Republic,11.0–22.0,27.5,44.1,41.3,8.9,12.7
+868,801+,University of Hyogo,Japan,11.0–22.0,7.7,46.1,22.9,11.5,18.3
+869,801+,Ibn Tofaïl University,Morocco,11.0–22.0,32.2,44.4,20.5,9.6,19.7
+870,801+,Inha University,South Korea,11.0–22.0,27.5,47,28.7,20.4,12.4
+871,801+,University of Ioannina,Greece,11.0–22.0,24.3,43.8,32.2,9.7,11.4
+872,801+,Jeonbuk National University,South Korea,11.0–22.0,30.3,44.9,23.1,14.8,14.6
+873,801+,Jiangsu University,China,11.0–22.0,37.5,45.7,32.4,7.7,13.5
+874,801+,Kangwon National University,South Korea,11.0–22.0,14.6,44.5,16.2,10.8,12.6
+875,801+,Kansai University,Japan,11.0–22.0,3.3,44.1,17.3,8.1,14
+876,801+,Kasetsart University,Thailand,11.0–22.0,21.6,46.1,24.1,9.4,13
+877,801+,King Mongkut’s Institute of Technology Ladkrabang,Thailand,11.0–22.0,13.9,50.9,15.5,13.3,12.9
+878,801+,King Mongkut's University of Technology North Bangkok,Thailand,11.0–22.0,24.5,43.8,17.5,13.9,18
+879,801+,Kobe University,Japan,11.0–22.0,15.2,46.7,33.2,16.7,23.7
+880,801+,Kocaeli University,Turkey,11.0–22.0,19.9,44.3,18.7,13.6,14.7
+881,801+,Kookmin University,South Korea,11.0–22.0,34.8,44.9,18.6,14.5,14.6
+882,801+,Universiti Kuala Lumpur,Malaysia,11.0–22.0,22,44.5,35.6,8.4,13.8
+883,801+,Kuwait University,Kuwait,11.0–22.0,26.4,44.7,56.7,9.7,15.7
+884,801+,Kyoto Institute of Technology,Japan,11.0–22.0,5.4,44.4,22.9,15.4,11.8
+885,801+,University of Las Palmas de Gran Canaria,Spain,11.0–22.0,26.5,43.8,44.8,8.6,20.2
+886,801+,Lobachevsky State University of Nizhni Novgorod,Russian Federation,11.0–22.0,15.4,50.3,29.6,9.8,19.8
+887,801+,Lodz University of Technology,Poland,11.0–22.0,28.6,45.8,20.5,10.8,12.4
+888,801+,Manipal Academy of Higher Education,India,11.0–22.0,28.2,46.5,24.6,11.3,18.4
+889,801+,Mapúa University,Philippines,11.0–22.0,16.8,43.8,15.3,14,11.2
+890,801+,Meiji University,Japan,11.0–22.0,9.9,46.9,17.5,11,16.3
+891,801+,Metropolitan Autonomous University,Mexico,11.0–22.0,7.2,44,19.6,8.4,11.3
+892,801+,Miguel Hernández University of Elche,Spain,11.0–22.0,28.6,45.8,33.2,16.6,12.4
+893,801+,University of Minho,Portugal,11.0–22.0,26.9,47.8,25.9,15,14.8
+894,801+,MIREA - Russian Technological University,Russian Federation,11.0–22.0,11.8,44,15.2,7.9,10.9
+895,801+,Moscow Power Engineering Institute,Russian Federation,11.0–22.0,31.2,52.1,29.1,13.3,14.4
+896,801+,Mustansiriyah University,Iraq,11.0–22.0,7.9,44.4,29,7.1,16.6
+897,801+,Nagoya Institute of Technology,Japan,11.0–22.0,11.4,45.3,24.4,13.2,12.1
+898,801+,Nanjing Normal University,China,11.0–22.0,35.9,47.2,20.6,11.2,12.4
+899,801+,Nanjing Tech University,China,11.0–22.0,25.9,45.3,19.9,7.7,11.4
+900,801+,National Autonomous University of Mexico,Mexico,11.0–22.0,16.7,48.2,41.3,13.5,20.8
+901,801+,National Chengchi University,Taiwan,11.0–22.0,29.1,45,21.8,15.7,16.8
+902,801+,National Chin-Yi University of Technology,Taiwan,11.0–22.0,18.5,46.5,16.4,12.6,10.9
+903,801+,National Chung Hsing University,Taiwan,11.0–22.0,25.5,46,20.1,13.8,16.1
+904,801+,National University of Colombia,Colombia,11.0–22.0,16.4,44,29.7,9.7,16.6
+905,801+,National Kaohsiung University of Science and Technology,Taiwan,11.0–22.0,15.6,45.5,17.2,9.3,14
+906,801+,National Research University of Electronic Technology (MIET),Russian Federation,11.0–22.0,13.7,54.3,22.2,11.5,26.8
+907,801+,National Taiwan Ocean University,Taiwan,11.0–22.0,27.9,45.8,18.3,13,12.6
+908,801+,National Technical University Kharkiv Polytechnic Institute,Ukraine,11.0–22.0,29.8,43.9,18.3,7,13.5
+909,801+,Northwest University,China,11.0–22.0,33.9,44.9,21.9,7.8,13.6
+910,801+,University of Novi Sad,Serbia,11.0–22.0,24.4,44.4,31.9,13.7,11.9
+911,801+,Novosibirsk State Technical University,Russian Federation,11.0–22.0,13,43.9,21.6,13.2,20.4
+912,801+,Osaka Metropolitan University,Japan,11.0–22.0,25.5,49.3,23.3,9.8,17.2
+913,801+,Osmania University,India,11.0–22.0,32.5,43.9,13.7,15.4,16
+914,801+,University of Ostrava,Czech Republic,11.0–22.0,18.8,43.8,26.8,11,15.9
+915,801+,University of Oviedo,Spain,11.0–22.0,28.6,44.4,28.6,10.7,16.2
+916,801+,Palacký University Olomouc,Czech Republic,11.0–22.0,20.1,44.4,45.5,18.9,11.8
+917,801+,University of the Philippines,Philippines,11.0–22.0,12.9,45.6,17.6,9.5,11.9
+918,801+,Universidad Politécnica Salesiana,Ecuador,11.0–22.0,34.6,43.9,36.1,8.3,11.8
+919,801+,Polytechnic University of Timişoara,Romania,11.0–22.0,38.8,44,17.3,8.8,12.8
+920,801+,Pontifical Catholic University of Peru,Peru,11.0–22.0,24,44.1,29.1,7.5,14.3
+921,801+,Portland State University,United States,11.0–22.0,21.2,43.8,37.7,11.4,16.3
+922,801+,Poznan University of Technology,Poland,11.0–22.0,31.2,44.8,20.8,13.7,17.5
+923,801+,Prince of Songkla University,Thailand,11.0–22.0,24,44.7,18.1,11.2,16.8
+924,801+,PSG College of Technology,India,11.0–22.0,29.8,43.8,13.1,13.2,15.6
+925,801+,Riga Technical University,Latvia,11.0–22.0,22.3,45.4,33.4,9.1,13.8
+926,801+,R V College of Engineering,India,11.0–22.0,34.5,44.1,12.5,8,13.7
+927,801+,Samara National Research University (Samara University),Russian Federation,11.0–22.0,16,44.7,31.5,13.7,18.6
+928,801+,"University of Santiago, Chile (USACH)",Chile,11.0–22.0,20.2,44.6,39.1,10.9,14.8
+929,801+,Sathyabama Institute of Science and Technology,India,11.0–22.0,31.3,43.9,16.5,8.2,16.1
+930,801+,Savitribai Phule Pune University,India,11.0–22.0,22.9,44.3,17.4,9.6,29.7
+931,801+,Shibaura Institute of Technology,Japan,11.0–22.0,14.9,45,22.8,16,21.3
+932,801+,Shizuoka University,Japan,11.0–22.0,17.8,46,24.6,13,16.6
+933,801+,Slovak University of Technology in Bratislava,Slovakia,11.0–22.0,18,44.1,24.2,10.5,14.3
+934,801+,Soongsil University,South Korea,11.0–22.0,18.4,44.1,17.2,10.7,17.3
+935,801+,University of South Africa,South Africa,11.0–22.0,18.5,43.8,25.5,14.7,24.1
+936,801+,South China Normal University,China,11.0–22.0,29.8,45.2,21.2,9.6,11.9
+937,801+,Southern Federal University,Russian Federation,11.0–22.0,17.5,44.8,20.8,9,16.4
+938,801+,University of Split,Croatia,11.0–22.0,22.6,45.8,25,8.5,12.2
+939,801+,University of Szeged,Hungary,11.0–22.0,18.3,44.9,33.6,12,17.5
+940,801+,Tamkang University,Taiwan,11.0–22.0,16.4,44.4,23.9,11.6,14.6
+941,801+,Taras Shevchenko National University of Kyiv,Ukraine,11.0–22.0,31,43.8,15.7,9.7,14.2
+942,801+,Technical University of Cluj-Napoca,Romania,11.0–22.0,27.9,43.9,18,9,12.6
+943,801+,Technical University of Košice,Slovakia,11.0–22.0,20.9,44.5,26.3,12.1,15.1
+944,801+,Technical University of Loja,Ecuador,11.0–22.0,7.6,43.8,26.2,7.5,11.2
+945,801+,Technical University of Sofia,Bulgaria,11.0–22.0,14.8,43.9,33.2,9.7,12
+946,801+,"University of Technology, Iraq",Iraq,11.0–22.0,27,43.8,19.9,8.4,15
+947,801+,Universidade Tecnológica Federal do Paraná (UTFPR),Brazil,11.0–22.0,28.3,43.8,21.6,10,13.9
+948,801+,Universiti Teknikal Malaysia Melaka,Malaysia,11.0–22.0,33.6,43.8,38.2,9.5,12.8
+949,801+,Universiti Teknologi MARA,Malaysia,11.0–22.0,12.3,43.8,14.8,10.4,15.5
+950,801+,Institut Teknologi Sepuluh Nopember,Indonesia,11.0–22.0,27.1,44.6,32.4,14.9,15.5
+951,801+,Thammasat University,Thailand,11.0–22.0,11.1,44.7,22.7,11.9,16.7
+952,801+,University of Thessaly,Greece,11.0–22.0,24.4,43.8,31.6,10.2,12
+953,801+,Tokai University,Japan,11.0–22.0,7.4,43.8,21.1,11,12.9
+954,801+,Tokyo University of Agriculture and Technology,Japan,11.0–22.0,17.2,45.5,21.1,20.8,19.3
+955,801+,Tokyo Denki University,Japan,11.0–22.0,6,45.5,25.7,21.3,14
+956,801+,Tokyo Metropolitan University,Japan,11.0–22.0,21.8,44.9,23.1,18,15.3
+957,801+,Tokyo University of Science,Japan,11.0–22.0,11,45,17.8,14.6,17.5
+958,801+,Toyohashi University of Technology (TUT),Japan,11.0–22.0,16.4,47.9,25,14.7,16.4
+959,801+,Transilvania University of Brașov,Romania,11.0–22.0,43.4,43.9,22.3,7.4,13.1
+960,801+,Tshwane University of Technology,South Africa,11.0–22.0,21.6,44.9,32,7.5,10.6
+961,801+,University of Tunis,Tunisia,11.0–22.0,23.2,43.8,31.5,9.2,13.7
+962,801+,Universiti Malaysia Sabah (UMS),Malaysia,11.0–22.0,29.6,43.8,31,8.9,12.8
+963,801+,Ural Federal University,Russian Federation,11.0–22.0,13.7,72.3,40.8,19.1,18.8
+964,801+,Vietnam National University (Ho Chi Minh City),Vietnam,11.0–22.0,25.5,44.1,23.9,9.9,18
+965,801+,Vilnius University,Lithuania,11.0–22.0,20.5,44.3,33.1,9.7,14.2
+966,801+,Wrocław University of Science and Technology,Poland,11.0–22.0,23.5,45,23.9,13.8,18.3
+967,801+,University of Wrocław,Poland,11.0–22.0,22.6,43.9,42.9,16.7,17.2
+968,801+,Wuhan University of Technology,China,11.0–22.0,27.7,45.8,18,12.8,12.9
+969,801+,Xiangtan University,China,11.0–22.0,38,45,17.2,8.8,11
+970,801+,Yamaguchi University,Japan,11.0–22.0,12.1,45.7,21.6,8.8,13.1
+971,801+,Yanshan University,China,11.0–22.0,20.2,45.9,14.7,8.9,12.4
+972,801+,Yokohama National University,Japan,11.0–22.0,20.6,67.4,17.9,19.3,17
+973,801+,Yuan Ze University,Taiwan,11.0–22.0,28.3,47.7,30.2,10.7,14.1
+974,801+,University of Žilina,Slovakia,11.0–22.0,25,44.9,20.3,10.9,16.7
